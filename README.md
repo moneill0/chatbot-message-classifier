@@ -80,3 +80,4 @@ If I had more time to work on this project, I would:
 6. Make the console output cleaner (Address the warnings in the empathy classifier, and write a try catch exception workaround so that nltk does not print a message that it has already been downloaded).
 7. Experiment with different models for the empathy classifier in a similar way as I did for the polarity classifier, in which the results are visualized.
 8. Add an optional user input argument for running the polarity classifier to select which individual model to run. For example, if the user ran `python src/models/polarity_classification.py SGD`, then only the SGD model would run.
+9. Clean up the visualizations and make them appear nicer.
