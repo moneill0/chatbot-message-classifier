@@ -1,0 +1,12 @@
+tensorflow
+pandas
+matplotlib
+statistics
+scikit-learn
+transformers
+torch
+wordnet
+scipy
+textblob
+nltk
+numpy

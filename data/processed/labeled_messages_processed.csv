@@ -1,0 +1,3521 @@
+message,polarity,polarity classification
+tired,-0.5,-1
+exhausted,-0.5,-1
+drained,-0.5,-1
+tired but happy,0.25,1
+in tired,-0.5,-1
+very tired,-0.5,-1
+a bit tired,-0.5,-1
+i feel tired,-0.5,-1
+tired but good,-0.5,-1
+worn out,-0.5,-1
+lethargy,-0.5,-1
+a little tired,-0.5,-1
+tired and sad,-0.75,-1
+foggy,-0.5,-1
+tired but content,0.25,1
+weary,-0.5,-1
+sluggish,-0.5,-1
+tired but ok,-0.2,-1
+in feeling tired,-0.5,-1
+tired and sleepy,-0.3,-1
+tired but okay,-0.2,-1
+tired and hungry,-0.3,-1
+pretty tired,-0.5,-1
+little tired,-0.5,-1
+feeling tired,-0.5,-1
+tired and bored,-0.3,-1
+tired and stressed,-0.3,-1
+tired and sore,-0.75,-1
+really tired,-0.5,-1
+tired and lonely,-0.5,-1
+tired but satisfied,0.25,1
+tired and anxious,-0.75,-1
+tired sad,-0.75,-1
+tired and happy,0.25,1
+tired anxious,-0.75,-1
+i am tired,-0.5,-1
+fatigued,-0.5,-1
+tired worried,-0.75,-1
+a little bit tired,-0.5,-1
+i feel exhausted,-0.5,-1
+so tired,-0.5,-1
+tired and sick,-0.35,-1
+tired but hopeful,-0.5,-1
+burnt out,-0.5,-1
+bit tired,-0.5,-1
+just tired,-0.5,-1
+tired and calm,0.25,1
+overlooked,-0.4666666666666667,-1
+tired and annoyed,-0.65,-1
+tired and frustrated,-0.65,-1
+tired but excited,0.25,1
+tired,-0.5,-1
+drowsy,-0.5,-1
+hot and tired,-0.5,-1
+tired and unmotivated,-0.65,-1
+tired but calm,0.25,1
+tire,-0.5,-1
+tired overwhelmed,-0.4666666666666667,-1
+tired and depressed,-0.75,-1
+tired sore,-0.75,-1
+tired of,-0.5,-1
+tired and worried,-0.75,-1
+tired and aggravated,-0.65,-1
+tired relaxed,0.25,1
+physically tired,-0.5,-1
+tired content,0.25,1
+tired annoyed,-0.65,-1
+little bit tired,-0.5,-1
+tire,-0.5,-1
+tired,-0.5,-1
+mentally exhausted,-0.5,-1
+tired numb,-0.55,-1
+tired and drained,-0.5,-1
+tired but pretty good,-0.5,-1
+tired and nervous,-0.75,-1
+tired but optimistic,-0.5,-1
+tired and irritated,-0.65,-1
+tired sad,-0.75,-1
+in a little tired,-0.5,-1
+kind of tired,-0.5,-1
+tired but fine,-0.2,-1
+i feel tired but happy,0.25,1
+tied,-0.5,-1
+i feel drained,-0.5,-1
+tired and confused,-0.3,-1
+tired exhausted,-0.5,-1
+tired but fulfilled,0.5,1
+tired and a bit frustrated,-0.65,-1
+kind tired,-0.5,-1
+not tired,1.0,1
+tired but accomplished,0.25,1
+exhausted and frustrated,-0.65,-1
+tired happy,0.25,1
+extremely tired,-0.5,-1
+a bit tired but fine,-0.2,-1
+i am feeling tired,-0.5,-1
+foggy,-0.5,-1
+tired and weird,-0.3666666666666667,-1
+fatigue,-0.5,-1
+happy,1.0,1
+great,1.0,1
+pretty good,1.0,1
+positive,1.0,1
+optimistic,1.0,1
+very good,1.0,1
+motivate,1.0,1
+amazing,1.0,1
+in happy,1.0,1
+grateful,1.0,1
+really good,1.0,1
+fantastic,1.0,1
+very happy,1.0,1
+i feel happy,1.0,1
+i feel pretty good,1.0,1
+pretty happy,1.0,1
+i feel great,1.0,1
+pleased,1.0,1
+wonderful,1.0,1
+quite good,1.0,1
+happy and excited,1.0,1
+super,1.0,1
+good happy,1.0,1
+good but tired,-0.5,-1
+glad,1.0,1
+fulfilled,1.0,1
+in feeling pretty good,1.0,1
+happy and relaxed,1.0,1
+in feeling great,1.0,1
+happy but tired,0.25,1
+joyful,1.0,1
+cheerful,1.0,1
+perfect,1.0,1
+amused,1.0,1
+pretty great,1.0,1
+happy ,1.0,1
+thankful,1.0,1
+very well,1.0,1
+in great,1.0,1
+happy and content,1.0,1
+not so good,-1.0,-1
+happy and tired,0.25,1
+really happy,1.0,1
+good and happy,1.0,1
+happy relaxed,1.0,1
+happy and calm,1.0,1
+feeling great,1.0,1
+in feeling very good,1.0,1
+good relaxed,1.0,1
+full of energy,1.0,1
+entertained,1.0,1
+happy and sad,0.0,0
+good calm,1.0,1
+good and tired,-0.5,-1
+feeling pretty good,1.0,1
+good tired,-0.5,-1
+i am feeling great,1.0,1
+pretty positive,1.0,1
+good productive,0.5,1
+funny,-0.1,-1
+ll,1.0,1
+good a bit tired,-0.5,-1
+not very good,-1.0,-1
+in happy ,1.0,1
+good happy,1.0,1
+not so well,-1.0,-1
+in feeling happy,1.0,1
+good excited,1.0,1
+fabulous,1.0,1
+quite happy,1.0,1
+good but sleepy,-0.1,-1
+sad,-1.0,-1
+bad,-1.0,-1
+low,-1.0,-1
+down,-1.0,-1
+shit,-1.0,-1
+horrible,-1.0,-1
+not good,-1.0,-1
+thirty,-1.0,-1
+terrible,-1.0,-1
+not great,-1.0,-1
+very sad,-1.0,-1
+a little sad,-1.0,-1
+awful,-1.0,-1
+not too bad,0.1,1
+nostalgic,-1.0,-1
+blew,-1.0,-1
+in sad,-1.0,-1
+i feel sad,-1.0,-1
+summed,-1.0,-1
+a little down,-1.0,-1
+a bit sad,-1.0,-1
+unhappy,-1.0,-1
+broken,-1.0,-1
+like shit,-1.0,-1
+kind sad,-1.0,-1
+sad and lonely,-0.75,-1
+sad and angry,-1.0,-1
+a bit down,-1.0,-1
+blue,-1.0,-1
+a little bit sad,-1.0,-1
+really sad,-0.95,-1
+gathered,-1.0,-1
+poor,-1.0,-1
+desperate,-1.0,-1
+sad and depressed,-1.0,-1
+sad and anxious,-1.0,-1
+summed out,-1.0,-1
+up and down,0.1,1
+pretty low,-1.0,-1
+i am sad,-1.0,-1
+in feeling sad,-1.0,-1
+sad and tired,-0.75,-1
+really bad,-1.0,-1
+very bad,-1.0,-1
+rubbish,-1.0,-1
+sad hopeless,-1.0,-1
+a bit low,-1.0,-1
+kind down,-1.0,-1
+little sad,-1.0,-1
+louse,-1.0,-1
+sad tired,-1.0,-1
+i feel down,-1.0,-1
+in feeling down,-1.0,-1
+say,-1.0,-1
+low energy,-0.5,-1
+sad angry,-1.0,-1
+cry,-1.0,-1
+sad and disappointed,-0.8,-1
+really down,-1.0,-1
+bit sad,-1.0,-1
+negative,-1.0,-1
+sad and frustrated,-0.9,-1
+sad depressed,-1.0,-1
+sad and alone,-0.75,-1
+kind of sad,-1.0,-1
+wistful,-1.0,-1
+sad confused,-0.55,-1
+gloomy,-1.0,-1
+sad low in energy insecure,-0.75,-1
+extremely sad,-1.0,-1
+not to bad,-1.0,-1
+little down,-1.0,-1
+not good not bad,-1.0,-1
+i feel horrible,-1.0,-1
+tucked up,-0.5,-1
+a little blue,-1.0,-1
+somewhat sad,-1.0,-1
+so sad,-1.0,-1
+sad anxious,-1.0,-1
+sad but ok,-1.0,-1
+very low,-1.0,-1
+resigned,-1.0,-1
+sad frustrated,-0.9,-1
+i feel sad and lonely,-0.75,-1
+a little low,-1.0,-1
+a little sad and anxious,-1.0,-1
+in down,-1.0,-1
+pretty thirty,-1.0,-1
+i am sad and lonely,-0.75,-1
+pretty shit,-1.0,-1
+mostly sad,-1.0,-1
+extremely bad,-1.0,-1
+kind of sad in thinking about my friend who died recently since we talked about her last night and in still upset i didn get to say goodby,-0.6,-1
+bad really bad,-1.0,-1
+longing,-1.0,-1
+downtrodden,-1.0,-1
+sad exhausted,-0.75,-1
+kind of down,-1.0,-1
+kind bad,-1.0,-1
+ugh,-1.0,-1
+anxious,-1.0,-1
+worried,-1.0,-1
+nervous,-1.0,-1
+overwhelmed,-1.0,-1
+tense,-1.0,-1
+a little anxious,-1.0,-1
+concerned,-1.0,-1
+apprehensive,-1.0,-1
+unstable,-1.0,-1
+a bit anxious,-1.0,-1
+on edge,-1.0,-1
+slightly anxious,-1.0,-1
+anxiety,-1.0,-1
+i feel anxious,-1.0,-1
+little anxious,-1.0,-1
+a little nervous,-1.0,-1
+a bit nervous,-1.0,-1
+a little overwhelmed,-1.0,-1
+i feel overwhelmed,-1.0,-1
+uncertain,-0.75,-1
+anxious and sad,-1.0,-1
+in worried,-1.0,-1
+a little bit anxious,-1.0,-1
+in anxious,-1.0,-1
+in nervous,-1.0,-1
+worry,-1.0,-1
+disoriented,-0.7666666666666667,-1
+a little worried,-1.0,-1
+very anxious,-1.0,-1
+mildly anxious,-1.0,-1
+a bit worried,-1.0,-1
+distressed,-1.0,-1
+anxious and miserable,-1.0,-1
+tense,-1.0,-1
+anxious and excited,0.0,0
+anxious and worried,-1.0,-1
+nervous and excited,0.0,0
+feeling nervous,-1.0,-1
+in feeling anxious,-1.0,-1
+anxious and depressed,-1.0,-1
+little nervous,-1.0,-1
+in a little nervous,-1.0,-1
+anxious and stressed,-0.55,-1
+a little bit nervous,-1.0,-1
+somewhat anxious,-1.0,-1
+a bit tense,-1.0,-1
+a bit on edge,-1.0,-1
+paranoid,-1.0,-1
+anxious and tired,-0.75,-1
+really nervous,-1.0,-1
+worried about the future,-1.0,-1
+i am feeling a little anxious,-1.0,-1
+anxious and tense,-1.0,-1
+bit anxious,-1.0,-1
+a little anxious but okay,-0.45,-1
+anxious sad,-1.0,-1
+anxious but okay,-0.45,-1
+little worried,-1.0,-1
+extremely anxious,-1.0,-1
+i feel nervous,-1.0,-1
+anxious tired,-0.75,-1
+i am feeling worried,-1.0,-1
+edge,-1.0,-1
+distraught,-1.0,-1
+some anxiety,-1.0,-1
+slightly worried,-1.0,-1
+worry,-1.0,-1
+anxious and frustrated,-0.9,-1
+a bit overwhelmed,-1.0,-1
+unstable and anxious about the future,-1.0,-1
+nervous and anxious,-1.0,-1
+some anxiety over my family but not work,-1.0,-1
+very anxious and procrastinating,-0.9,-1
+a bit nervous about all the work and travel coming up,-1.0,-1
+not much different nervous at time okay at other time,-1.0,-1
+in feeling a little apprehensive,-1.0,-1
+i am tense about my delayed timeline,-1.0,-1
+i am feeling a little anxious about how thing are going to turn out during the meeting,-1.0,-1
+little anxious but not mostly ok,-0.45,-1
+slightly nervous,-1.0,-1
+worried and anxious,-1.0,-1
+really anxious,-1.0,-1
+anxious horrible,-1.0,-1
+feel anxious,-1.0,-1
+worried alone,-1.0,-1
+give been anxious yesterday and now much better,-1.0,-1
+sometimes i feel overwhelmed and sometimes i feel happy,0.0,0
+in feeling anxious a bit in trying to relax,-1.0,-1
+a little worry,-1.0,-1
+kind anxious i guess,-1.0,-1
+feeling bit nervous,-1.0,-1
+nervous depressed worried sleepy,-0.7,-1
+worried stressed,-0.55,-1
+just a little nervous,-1.0,-1
+i am anxious but happy,0.0,0
+in feeling a bit anxious but not too much,-1.0,-1
+anxious and scared sometimes trying to be positive but there are negative thought,-1.0,-1
+in feeling extremely distressed and low i dont have any idea how to tackle this i am depressed to say the least,-1.0,-1
+in feeling kind overwhelmed because i expect everything to happen a i have planned it so when thing dont run smoothly it an emotional strain,-0.65,-1
+anxious a bit down,-1.0,-1
+okay,0.1,1
+ok,0.1,1
+fine,0.1,1
+neutral,0.1,1
+alright,0.1,1
+not bad,0.1,1
+in ok,0.1,1
+in okay,0.1,1
+decent,0.1,1
+i feel okay,0.1,1
+i feel ok,0.1,1
+i feel fine,0.1,1
+in fine,0.1,1
+in alright,0.1,1
+i feel alright,0.1,1
+in feeling ok,0.1,1
+fair,0.1,1
+feeling ok,0.1,1
+ok i guess,0.1,1
+in feeling okay,0.1,1
+okay i guess,0.1,1
+medium,0.1,1
+pretty okay,0.1,1
+just ok,0.1,1
+in feeling fine,0.1,1
+it ok,0.1,1
+i am ok,0.1,1
+it okay,0.1,1
+i am fine,0.1,1
+i feel neutral,0.1,1
+in feeling alright,0.1,1
+feel ok,0.1,1
+a usual,0.1,1
+okay tired,-0.2,-1
+i am feeling ok,0.1,1
+just fine,0.1,1
+goods,0.1,1
+grayish,0.1,1
+feeling alright,0.1,1
+feeling fine,0.1,1
+ok kind,0.1,1
+pretty decent,0.1,1
+ok thanks,0.1,1
+pretty ok,0.1,1
+ok ok,0.1,1
+in doing ok,0.1,1
+fine,0.1,1
+alright,0.1,1
+quite ok,0.1,1
+feel okay,0.1,1
+all right,0.1,1
+regular,0.1,1
+obey,0.1,1
+in doing alright,0.1,1
+feeling okay,0.1,1
+just okay,0.1,1
+in okay i guess,0.1,1
+mostly okay,0.1,1
+find,0.1,1
+i am alright,0.1,1
+fine thanks,0.1,1
+pretty neutral,0.1,1
+i am feeling okay,0.1,1
+alright i guess,0.1,1
+it alright,0.1,1
+it fine,0.1,1
+okay good,0.1,1
+in doing fine,0.1,1
+i feel fine today,0.1,1
+ok but tired,-0.2,-1
+ok not bad,0.1,1
+alright thank you,0.1,1
+i feel fine,0.1,1
+ok relaxed,0.1,1
+my mood is alright dad called today and made me cry not that he knew ,0.1,1
+pretty dark fine,0.1,1
+fine i guess,0.1,1
+i am okay,0.1,1
+okay relaxed,0.1,1
+okay could be better,0.1,1
+in okay just tired,-0.2,-1
+k,0.1,1
+not bad at all,0.1,1
+quite alright,0.1,1
+not okay,-1.0,-1
+it decent,0.1,1
+in decent,0.1,1
+one,0.1,1
+in alright thank you,0.1,1
+it totally fine,0.1,1
+in pretty okay,0.1,1
+ok kind tired,-0.2,-1
+in ok in pushing through the mud,-0.2,-1
+i am feeling fine,0.1,1
+not ok,-1.0,-1
+oka,0.1,1
+generally okay,0.1,1
+pretty fine,0.1,1
+fine thank you,0.1,1
+stressed,-0.1,-1
+busy,-0.1,-1
+a bit stressed,-0.1,-1
+a little stressed,-0.1,-1
+stressed out,-0.1,-1
+rushed,-0.1,-1
+stressed and tired,-0.1,-1
+in stressed,-0.1,-1
+slightly stressed,-0.1,-1
+pressure,-0.1,-1
+stressed and frustrated,-0.45,-1
+distressful,-0.1,-1
+in feeling stressed,-0.1,-1
+i feel stressed,-0.1,-1
+in a little stressed,-0.1,-1
+pressure,-0.1,-1
+stressed and anxious,-0.55,-1
+stress,-0.1,-1
+little stressed,-0.1,-1
+stressed angry,-0.55,-1
+very stressed,-0.1,-1
+stressed about work,-0.1,-1
+stressed and anxious about money and my future,-0.55,-1
+stressed tense tired productive,-0.4666666666666667,-1
+stressed angry annoyed,-0.6333333333333333,-1
+stressed about nothing,-0.1,-1
+slightly stressed but it manageable,-0.1,-1
+pressure and fear and refreshing,-0.55,-1
+stressed and worried,-0.55,-1
+stressed and sleepy,-0.1,-1
+stressed out and exhausted,-0.3,-1
+stressed of because whoever invented the he can die,-0.1,-1
+very very very very distressful,-0.1,-1
+stressed and worried that in not a good person,-0.55,-1
+pretty stressed,-0.1,-1
+stressed whatever i do it seems be never good enough,-0.1,-1
+stressed out about the job,-0.1,-1
+quite stressed,-0.1,-1
+stressed have a lot on my plate,-0.1,-1
+stressed but peaceful,0.45,1
+stressed worried heavy and yearning for change,-0.55,-1
+incredibly stressed,-0.1,-1
+busy hard,-0.1,-1
+stressed out but the stress is over,-0.1,-1
+just stressed out about thing,-0.1,-1
+distressful but chill,0.45,1
+busy but productive,0.2,1
+stressed worried about a test result,-0.55,-1
+stressed scared,-0.1,-1
+i feel stressed but not,-0.1,-1
+a little stressed but happy to be home,0.45,1
+head ache busy,-0.25,-1
+stressed but happy,0.45,1
+i feel stressed and worried also overturned,-0.5333333333333333,-1
+insomnia work stress work worry character and life thought going around my mind,-0.1,-1
+busy ,0.5,1
+in feeling a little stressed out but have very high energy,0.45,1
+a bit busy but good,-0.1,-1
+stressed but hopefully,0.2,1
+stress and nervous,-0.55,-1
+mildly stressed,-0.1,-1
+stressed worried excited optimistic,-0.55,-1
+very stressed out,-0.1,-1
+it quite distressful at work feel like in always stepping on eggshell trying not to make any wrong move,-0.1,-1
+in a little stressed and sore,-0.55,-1
+feeling busy,-0.1,-1
+bit stressed,-0.1,-1
+a bit stressed because i dont know how i should plan my week and what time are the best to study,-0.1,-1
+i worked fell behind on my planning for a bit but got back on track,-0.1,-1
+stressed anxious,-0.55,-1
+stressed but le than yesterday,-0.1,-1
+somewhat stressed,-0.1,-1
+in busy,-0.1,-1
+a little stressed out,-0.1,-1
+just really stressed,-0.1,-1
+in feeling stress,-0.1,-1
+it final time so a little stressed,-0.1,-1
+feeling a bit stressed,-0.1,-1
+slightly stressed fear of the unknown,-0.1,-1
+a bit busy,-0.1,-1
+i feel a bit stressed,-0.1,-1
+i just came from working out and i am busy making dinner so that is why i have a lot of energy,-0.1,-1
+stressed anxious but not out of control,-0.55,-1
+stressed and angry,-0.55,-1
+stressed anxious wound up,-0.55,-1
+stressed and depressed,-0.55,-1
+little stressed by my boyfriend,-0.1,-1
+physically strained,-0.5,-1
+my mind is busy,-0.1,-1
+stressed out but ok,0.0,0
+stressed and upset,-0.5,-1
+i feel stressed out,-0.1,-1
+stressed and full of fear,-0.55,-1
+stressed but good,-0.1,-1
+stress,-0.1,-1
+i feel rushed and frustrated,-0.45,-1
+stress confused i wa ignored but now i want closer,-0.4,-1
+a little stressed at work but more exasperated people keep expecting you to know thing that you had no reason to know,-0.45,-1
+depressed,-1.0,-1
+hopeless,-1.0,-1
+a little depressed,-1.0,-1
+very depressed,-1.0,-1
+depressed and anxious,-1.0,-1
+a bit depressed,-1.0,-1
+i feel depressed,-1.0,-1
+depression,-1.0,-1
+kind depressed,-1.0,-1
+little depressed,-1.0,-1
+mildly depressed,-1.0,-1
+depressed and upset,-0.95,-1
+beyond hopeless,-1.0,-1
+depressed lonely,-0.75,-1
+depressed anxious,-1.0,-1
+depressed sad,-1.0,-1
+depressing,-1.0,-1
+really depressed,-1.0,-1
+depressed and stressed,-0.55,-1
+in depressed,-1.0,-1
+slightly depressed,-1.0,-1
+depressed it just feel like in making everyone around me happy just not myself,-1.0,-1
+very depressed and very anxious,-1.0,-1
+depressed angry,-1.0,-1
+very depressed and extreme anxiety,-1.0,-1
+everything is the same every day is the same monotonous depressed,-1.0,-1
+depressed lonely uneasy,-0.6666666666666666,-1
+in a hopeless lower,-1.0,-1
+depressed lonely crouch frustrated,-0.7666666666666667,-1
+kind hopeless in back to doing everything again now that the weekend is over,-1.0,-1
+in very depressed,-1.0,-1
+feeling depressed about starting the day,-1.0,-1
+depressed and lonely and broken,-0.8333333333333334,-1
+depressed irritable framing i feel like my mental state is deteriorating rapidly,-0.9,-1
+depressed bored tired,-0.5333333333333333,-1
+depressed unmoved unwanted,-1.0,-1
+severe depression,-1.0,-1
+depressed,-1.0,-1
+depressed and worried,-1.0,-1
+i feel a bit depressed but happy,-1.0,-1
+very depressed and sad,-1.0,-1
+hopeless,-1.0,-1
+depressed but not anxious,-1.0,-1
+depressed down twisted up inside,-1.0,-1
+hopeless angry scared sad,-1.0,-1
+depressed panic,-0.9333333333333333,-1
+kind of depressed,-1.0,-1
+depressed and alone and tired,-0.6666666666666666,-1
+i feel hopeless because i have so many assignment,-0.55,-1
+depressed because of work,-1.0,-1
+depressed sad confused,-0.7,-1
+depressed frustrated hopeless,-0.9,-1
+severely depressed,-1.0,-1
+depressed anxious sick and tired,-0.675,-1
+feeling a little depressed,-1.0,-1
+depressed and not thrilled,-1.0,-1
+depressed ashamed,-0.8,-1
+mildly depressed but ok,-1.0,-1
+depressed still,-1.0,-1
+depressed and low,-1.0,-1
+mildly depressed and anxious,-1.0,-1
+depressed stressed anxious lack of confidence,-0.775,-1
+incredibly depressed,-1.0,-1
+i am depressed and hopeless i am sad tired anxious and lonely,-0.8,-1
+a little depressed and feeling quite a bit of grief and helplessness,-1.0,-1
+depressed anxious self hatred,-1.0,-1
+depressed and grieving,-1.0,-1
+depressed anxious self hatred empty worthless,-0.8666666666666667,-1
+i am feeling depressed i didn sleep well last night in worried about my job,-0.55,-1
+in feeling depressed,-1.0,-1
+depressed and listless,-0.8,-1
+in feeling pretty hopeless,-1.0,-1
+depressednfrustratednpainful,-0.9333333333333333,-1
+hopeless sad,-1.0,-1
+depressed and sad,-1.0,-1
+depressed hopeless,-1.0,-1
+i fell a bit depressed,-1.0,-1
+depressed anxious envious,-1.0,-1
+not depressed but down,-1.0,-1
+in feeling really depressed,-1.0,-1
+a little more depressed than normal,-1.0,-1
+depressed sad numb,-0.8666666666666667,-1
+in feeling pretty depressed and restless,-0.6,-1
+hopeless and wrapped,-1.0,-1
+i feel little depressed,-1.0,-1
+hopeless anger soft empowered,-0.3333333333333333,-1
+depressed exhausted,-0.75,-1
+fucking depressed i miss heather so much,-1.0,-1
+depressed dreading i feel useless,-1.0,-1
+in feeling hopeless and heartbroken,-1.0,-1
+depressed feeling of worthlessness,-1.0,-1
+kind depressed anxious,-1.0,-1
+i feel hopeless heartbroken and defeated,-1.0,-1
+depressed and self conscious,-1.0,-1
+depressed and packed,-0.9333333333333333,-1
+a little depression,-1.0,-1
+depressed resigned feeling lack luster,-1.0,-1
+depressed useless just hate not being able to play with my kid,-1.0,-1
+depressed and disgusted,-1.0,-1
+i feel like hell in depressed in ashamed i hate myself,-0.8,-1
+calm,1.0,1
+relaxed,1.0,1
+content,1.0,1
+hopeful,1.0,1
+peaceful,1.0,1
+chill,1.0,1
+nice,1.0,1
+cool,1.0,1
+relax,1.0,1
+peace,1.0,1
+mellow,1.0,1
+chilled,1.0,1
+balanced,1.0,1
+rested,1.0,1
+comfortable,1.0,1
+i feel calm,1.0,1
+i feel relaxed,1.0,1
+contented,1.0,1
+at ease,1.0,1
+refreshed,1.0,1
+in content,1.0,1
+calm,1.0,1
+even,1.0,1
+relaxed and happy,1.0,1
+quiet,1.0,1
+pleasant,1.0,1
+awake,1.0,1
+calm and happy,1.0,1
+relaxing,1.0,1
+i feel content,1.0,1
+serene,1.0,1
+fresh,1.0,1
+at peace,1.0,1
+smooth,1.0,1
+pretty content,1.0,1
+hopefully,1.0,1
+in relaxed,1.0,1
+in feeling content,1.0,1
+feeling relaxed,1.0,1
+pretty relaxed,1.0,1
+calm happy,1.0,1
+clear,1.0,1
+very calm,1.0,1
+calm and relaxed,1.0,1
+i feel peaceful,1.0,1
+safe,1.0,1
+easy,1.0,1
+chilled out,1.0,1
+shilling,1.0,1
+copy,1.0,1
+in feeling calm,1.0,1
+pretty chill,1.0,1
+passive,1.0,1
+in calm,1.0,1
+content happy,1.0,1
+relaxed content,1.0,1
+fairly calm,1.0,1
+calm and tired,0.25,1
+i feel relaxed and happy,1.0,1
+relaxed and tired,0.25,1
+calm relaxed,1.0,1
+collected,1.0,1
+quite calm,1.0,1
+relaxed and excited,1.0,1
+relaxed and calm,1.0,1
+in quite relaxed,1.0,1
+a bit calm,1.0,1
+still sick,-0.2,-1
+pretty content,1.0,1
+peace,1.0,1
+just relaxed,1.0,1
+content and hopeful,1.0,1
+in still sick,-0.2,-1
+feel nice,1.0,1
+peaceful tired,1.0,1
+relaxed ,1.0,1
+zen,1.0,1
+very nice,1.0,1
+relaxed mostly,1.0,1
+v nice boy,1.0,1
+fairly relaxed,1.0,1
+calm relax,1.0,1
+hopeful,1.0,1
+quite chill,1.0,1
+calm and sleepy,0.45,1
+peacefully,1.0,1
+calm relaxed,1.0,1
+peaceful and happy,1.0,1
+i feel chill,1.0,1
+calm tired,0.25,1
+still,1.0,1
+content but anxious,0.0,0
+calm and content,1.0,1
+feel relaxed,1.0,1
+relaxed happy,1.0,1
+calm and bored,0.45,1
+calm but tired,0.25,1
+content and calm,1.0,1
+calm before the storm,1.0,1
+calm and focused,0.75,1
+lonely,-0.5,-1
+alone,-0.5,-1
+unmoved,-0.5,-1
+unwanted,-0.5,-1
+i feel lonely,-0.5,-1
+abandoned,-0.5,-1
+isolated,-0.5,-1
+rejected,-0.5,-1
+kind of lonely,-0.5,-1
+i feel lonely restless bad about my body,-0.6666666666666666,-1
+a bit lonely,-0.5,-1
+in lonely,-0.5,-1
+only,-0.5,-1
+lonely sad depressed,-0.8333333333333334,-1
+feeling lonely,-0.5,-1
+i have an unwanted house guest,-0.5,-1
+alone bad worthless,-0.8333333333333334,-1
+a bit lonely and contemplative,-0.5,-1
+left out,-0.5,-1
+feeling a little lonely,-0.5,-1
+lonely hopeless,-0.75,-1
+feel lonely and bored,-0.3,-1
+lonely and heart broken,-0.8333333333333334,-1
+in lonely and sad,-0.75,-1
+lonely,-0.5,-1
+alone upset sad lost empty,-0.7,-1
+very lonely,-0.5,-1
+i feel alone and like nothing ha a purpose anymore,-0.75,-1
+i feel a little lonely,-0.5,-1
+in feeling kind of lonely,-0.5,-1
+lonely broken down,-0.8333333333333334,-1
+lonely and sluggish,-0.5,-1
+lonely hopeless boring,-0.5333333333333333,-1
+a little lonely but okay,-0.2,-1
+lonely but good about exercising,-0.5,-1
+not lonely though alone taking some much needed time to myself i wa with people most of the day and have another gathering then event tonight,-0.5,-1
+lonely and like the world is against me,-0.5,-1
+lonely ignored upset,-0.8,-1
+alone but it ok,-0.5,-1
+i am feeling alone,-0.5,-1
+i feel lonely and i miss the guy,-0.75,-1
+feeling lonely and worthless,-0.5,-1
+i guess i feel a little sadden i feel like in not achieving much in life a little bit lonely,-0.5,-1
+mostly lonely,-0.5,-1
+lonely not calm focused not quite here,-0.55,-1
+alone real hungry,-0.3,-1
+a little lonely,-0.5,-1
+suddenly felt very alone,-0.5,-1
+very sensitive kind lonely and ache,-0.6,-1
+alone and sad,-0.75,-1
+kind lonely,-0.5,-1
+i feel alone like in a lower because i have anxiety everywhere i go and with whatever i do i feel like my life is meaningless like in useless to the world,-0.75,-1
+lonely and bored,-0.3,-1
+i feel lonely and sad empty,-0.7,-1
+lonely and hungry,-0.3,-1
+in lonely and depressed,-0.75,-1
+a bit lonely but okay,-0.2,-1
+lonely and content,0.25,1
+lonely sad,-0.75,-1
+lonely frustrated and unmotivated,-0.7000000000000001,-1
+alone and boring and hurt,-0.5333333333333333,-1
+isolated lonely sad,-0.75,-1
+lonely fat depressed,-0.8333333333333334,-1
+lonely,-0.5,-1
+i guess kind of lonely,-0.5,-1
+lonely tired,-0.5,-1
+i feel lonely and stressed,-0.3,-1
+i am lonely and sad,-0.75,-1
+i feel a little bit lonely,-0.5,-1
+lonely,-0.5,-1
+i am feeling very lonely and sad i feel homesick,-0.8333333333333334,-1
+unexpectedly home alone being productive surprisingly perturbed,0.5,1
+unwanted and like ill never be good enough,-0.75,-1
+lonely and sad,-0.75,-1
+lonely and depressed,-0.75,-1
+feel lonely and powerless,-0.5,-1
+i feel very much unmoved and i dont understand why,-0.5,-1
+a bit lonely but in alright,-0.5,-1
+lonely and loved,0.25,1
+today i felt a little bit lonely,-0.5,-1
+lonely and physically uncomfortable,-0.75,-1
+lonely and a little empty,-0.55,-1
+lonely confused,-0.3,-1
+weep unwanted thrown away,-0.5,-1
+alone and bad,-0.75,-1
+trilled to be going on vacation starting tomorrow lonely socially awkward bored worried,-0.15,-1
+i want to have a boyfriend i feel so lonely,-0.5,-1
+lonely beer,-0.5,-1
+in feeling a bit lonely a usual whenever in alone especially after a long day together with andy,-0.5,-1
+sleepy,-0.1,-1
+in sleepy,-0.1,-1
+a little sleepy,-0.1,-1
+in feeling sleepy,-0.1,-1
+very sleepy,-0.1,-1
+sleeping,-0.1,-1
+feeling sleepy,-0.1,-1
+i feel sleepy,-0.1,-1
+sleepy and tired,-0.3,-1
+a little sleepy excited to go to bed,0.45,1
+a little sleepy but up for new challenge,-0.1,-1
+sleepy relaxed,-0.1,-1
+in a bit sleepy but overall in good i feel like i wa productive again today which feel great,0.4666666666666667,1
+in very sleepy and unmotivated,-0.45,-1
+in sleepy but fine,0.0,0
+sleepy and sore,-0.55,-1
+in sleepy but mostly happy,0.45,1
+in feeling sleepy and also content,0.45,1
+sleepy  but good,-0.1,-1
+sleepy l ache,-0.55,-1
+can sleep,-0.1,-1
+sleepy low energy,-0.3,-1
+sleepy exhausted,-0.3,-1
+sleepy but awake,-0.1,-1
+i feel sleepy,-0.1,-1
+sleepy and excited,0.45,1
+sleepy but content,0.45,1
+sleepy but good,-0.1,-1
+sleep,-0.1,-1
+i can sleep i feel wound up,-0.1,-1
+sleepy since i just woke up,-0.1,-1
+in feeling sleepy but good,-0.1,-1
+a little bit sleepy,-0.1,-1
+in very very sleep,-0.1,-1
+sleepy hopeless,-0.55,-1
+sleepy not enough rest,-0.1,-1
+i feel sleepy today,-0.1,-1
+sleepy relieved,0.45,1
+actually i guess i do feel sleepy,-0.1,-1
+i feel sleepy but excited to play basketball and go to a concert,0.45,1
+sleepy and strengthens,-0.1,-1
+laying on my bed i can sleep,-0.1,-1
+sleepy calm,0.45,1
+enjoying the sleepy mood after a stressed week,-0.1,-1
+sleepy but happy for the most part,0.45,1
+feel a had sleepy,-0.1,-1
+i just got up so in a little sleepy,-0.1,-1
+sleepy a little hungry,-0.1,-1
+sleepy and happy,0.45,1
+i feel sleepy but happy,0.45,1
+sleepy and wanting to rest for a bit,-0.1,-1
+sleepy,-0.2,-1
+sleepy pain foggy regretful,-0.6333333333333333,-1
+sleepy and ready to face the day,0.4666666666666667,1
+sleepy positive,-0.1,-1
+i am feeling sleepy because i haven slept yet today,-0.1,-1
+sleepy sore,-0.55,-1
+sleepy ll,-0.1,-1
+id rather be sleeping because i slept poorly last night but i have to be at work in not happy but in not sad just here,0.0,0
+i feel sleepy an happy,-0.1,-1
+having trouble sleeping,-0.1,-1
+sleepy and thinking about the outcome of wearing glass,-0.1,-1
+sleepy neutral and a little confused,-0.03333333333333333,-1
+a bit sleepy but pretty much content,0.45,1
+sleepy and bored,-0.1,-1
+in really really sleepy,-0.1,-1
+sleep,-0.1,-1
+in feeling sleepy didn catch much sleep last night and also a little anxious,-0.55,-1
+now am feeling sleepy,-0.1,-1
+sleepy ,-0.1,-1
+sleepy and strange,-0.3,-1
+sleepy and restless,-0.15000000000000002,-1
+sleepiness,-0.1,-1
+sleepy but fine,0.0,0
+sleepy and nervous for the say,-0.55,-1
+sleepy but motivate,0.2,1
+sleepy ache calm,-0.03333333333333333,-1
+sleepy but okay,0.0,0
+sleepy and sad,-0.55,-1
+sleepy but productive,0.2,1
+sleepy lazy productive,-0.3666666666666667,-1
+in a little sleepy because i just woke up but excited for six flag,0.45,1
+id sleepy,-0.1,-1
+sleepy of,-0.1,-1
+a little sleepy but happy,0.45,1
+can sleep feeling tired,-0.3,-1
+sleepy done with this shit,-0.45,-1
+sleepy ,-0.1,-1
+sleepy but haven slept yet,-0.1,-1
+sleepy slow low energy,-0.3,-1
+sleepy a little,-0.1,-1
+in sleepy but in doing well,-0.1,-1
+sleepy i just woke up,-0.1,-1
+angry,-1.0,-1
+mad,-1.0,-1
+passed,-1.0,-1
+passed off,-1.0,-1
+aggravated,-1.0,-1
+betrayed,-1.0,-1
+defeated,-1.0,-1
+angry and frustrated,-0.9,-1
+angry and sad,-1.0,-1
+disgusted,-1.0,-1
+resentful,-1.0,-1
+a bit angry,-1.0,-1
+in furious,-1.0,-1
+furious,-1.0,-1
+i hate myself,-1.0,-1
+angry sad tired,-0.8333333333333334,-1
+in feeling defeated,-1.0,-1
+angry at myself,-1.0,-1
+contempt,-1.0,-1
+missed up,-1.0,-1
+very angry,-1.0,-1
+hate myself,-1.0,-1
+in angry,-1.0,-1
+angry a hell,-1.0,-1
+angry depressed,-1.0,-1
+hate,-1.0,-1
+angry and confused,-0.55,-1
+i feel angry,-1.0,-1
+passed off at tales,-1.0,-1
+angry and depressed,-1.0,-1
+anger,-1.0,-1
+a little angry and anxious i miss someone,-1.0,-1
+i feel a little defeated,-1.0,-1
+a little bit angry,-1.0,-1
+hate it,-1.0,-1
+powerlessness self disgust,-1.0,-1
+angry and frustrated,-0.9,-1
+angry a bit dejected,-1.0,-1
+passed off i broke up w my of this morning its been coming him going out of town to see my family tomorrow been planned she pulled some drama this morning it wa enough for me,-1.0,-1
+a bit angry but ok,-1.0,-1
+i wa angry used some visualization about my vacation to calm down,-1.0,-1
+disgusted powerless,-1.0,-1
+angry furious sick,-0.6,-1
+in angry because righting government is changing my country to place i wouldn like to live,-1.0,-1
+i hate it here,-1.0,-1
+kind angry,-1.0,-1
+mad off,-1.0,-1
+in a little mad,-1.0,-1
+contempt kind happy but also a bit empty i suppose,-0.8,-1
+angry confused lonely under appreciated,-0.525,-1
+angry and aggravated,-1.0,-1
+i wa angry before,-1.0,-1
+angrynsadnregretnbetrayednbroken trust,-0.9400000000000001,-1
+i feel defeated i feel like he robbing me of who i really am i feel stuck i really dont love or like him anymore but i have to get married sometime and in not getting any younger i feel like in definitely settling i dont like being alive i think it unfair that we a people are not allowed to kill ourselves besides it my life and my choice,-1.0,-1
+in passed off but in also sad she been my whole life for awhile now,-1.0,-1
+angry annoyed upsetdepressed,-0.925,-1
+angry frustrated depressed irritated self loathing,-0.9333333333333333,-1
+all kind of emotion i am angry at the entertainment manager her at camp i am tired after learning a new difficult pp and some path and i am happy because i made some progress on one of my project,-0.65,-1
+in feeling angry and confused,-0.55,-1
+i am unable to do choice and i feel that my kindness is understand like weakness i observed how a couple friend are lying to me and i am a little angry for this my job also doe not show to much opportunity,-1.0,-1
+i hate my life,-1.0,-1
+angry annoyed calm,-0.26666666666666666,-1
+angry and frustrated and sad,-0.9333333333333333,-1
+in angry and passed,-1.0,-1
+feeling a little angry,-1.0,-1
+in feeling angry because my cousin is selfish,-1.0,-1
+i dislike everything and myself,-1.0,-1
+angry and upset,-0.95,-1
+preoccupied a bit sad and mad,-1.0,-1
+i am passed off,-1.0,-1
+passed but good,-1.0,-1
+in kind of angry,-1.0,-1
+angry a little,-1.0,-1
+mad and sad about marine and remembered how i used to be a lady man,-1.0,-1
+angry desperate ill,-1.0,-1
+like everyone hate me i feel like i bother people and their life,-1.0,-1
+i am angry and very sad,-1.0,-1
+angry annoyed disappointed fat,-0.85,-1
+betrayed disappointed but not surprised,-0.8,-1
+angry and upset betrayed,-0.9,-1
+angry stressed sad,-0.7,-1
+a bit mad at myself for sleeping all day,-0.55,-1
+furious angry,-1.0,-1
+in feeling angry and worriednnnangry because i told my teacher in ready to take an exam for my class i didn check back till later on i noticed she said it on i went to take it but it want there i told her it not there she ignored me for the rest of the day him worried because now my mon is donna ask how is school going i wont know what to say cause now in missing a test and this is her fault i missed it plus i might forget what give been learning in the future and in about to be 18 in one year in donna be stuck with nothing ,-1.0,-1
+angry and sad at the same time,-1.0,-1
+angry at a fucking pp,-1.0,-1
+pretty erratic angry and tense,-0.55,-1
+angry disappointed overwhelmed sad,-1.0,-1
+a little bitter,-1.0,-1
+a bit defeated again a little anxious,-1.0,-1
+bitter,-1.0,-1
+preoccupied but better,0.2,1
+mad and irritated,-0.9,-1
+a bit mad,-1.0,-1
+i am angry and sad,-1.0,-1
+hate my life,-1.0,-1
+passed but ok,-1.0,-1
+i feel like i missed unlike in falling back into my addition,-1.0,-1
+angry and doubting,-0.75,-1
+angry about tramp eager for people to go to prison,0.0,0
+frustrated,-0.8,-1
+annoyed,-0.8,-1
+upset,-0.8,-1
+irritated,-0.8,-1
+agitated,-0.8,-1
+impatient,-0.8,-1
+fed up,-0.8,-1
+grumpy,-0.8,-1
+moody,-0.8,-1
+irritable,-0.8,-1
+jealous,-0.8,-1
+exasperated,-0.8,-1
+i feel upset,-0.8,-1
+cranks,-0.8,-1
+a little annoyed,-0.8,-1
+in upset,-0.8,-1
+a little frustrated,-0.8,-1
+slightly irritated,-0.8,-1
+annoyed and tired,-0.65,-1
+slightly annoyed,-0.8,-1
+frustrated and annoyed,-0.8,-1
+i feel annoyed,-0.8,-1
+very upset,-0.8,-1
+a bit frustrated,-0.8,-1
+frustrated and sad,-0.9,-1
+irritated and tired,-0.65,-1
+a little irritated,-0.8,-1
+frustrated and tired,-0.65,-1
+kind upset,-0.8500000000000001,-1
+upset and migrate,-0.9,-1
+a bit annoyed,-0.8,-1
+i feel frustrated,-0.8,-1
+in annoyed,-0.8,-1
+a little bit frustrated,-0.8,-1
+upset and depressed,-0.9,-1
+irritated and depressed,-0.9,-1
+upset at date cancellation,-0.8,-1
+a little upset,-0.8,-1
+disgruntled,-0.8,-1
+frustrated but good,-0.8,-1
+frustrated but optimistic,-0.8,-1
+utf woot,-0.8,-1
+i feel a little impatient waiting and a little sad because in stuck inside all weekend waiting for my foot to heal,-0.9,-1
+annoyed and irritable,-0.8,-1
+a little cranks,-0.8,-1
+in currently irritable thing that i usually enjoy are annoying me it feel like sandpaper on my brain feel like in constantly losing at life in drowning in the thing i should be doing but have absolutely no motivation to do them,-0.8,-1
+frustrated angry and discouraged,-0.9,-1
+upset and sad,-0.95,-1
+frustrated but okay,-0.35000000000000003,-1
+annoyed bc i feel fat,-0.9,-1
+i am agitated and anxious not good,-0.9333333333333333,-1
+little irritated and anxious,-0.9,-1
+i am frustrated tired and in physical pain,-0.7666666666666667,-1
+a little frustrated with people in working with but over all pretty content,0.09999999999999998,1
+upset and disappointed,-0.8500000000000001,-1
+annoyed overwhelmed grumpy,-0.9,-1
+struggling to concentrate at work and feeling fed up at so many issue,-0.8,-1
+slightly annoyed and angry but overall in good,-0.8,-1
+annoyed that my ex wont reply to me hata,-0.8,-1
+annoyed because of all the stuff i do for her and the little recognition i get and how i have to do it without question a little down too,-0.8,-1
+really fucking annoyed,-0.8,-1
+i am tried and getting a little irritated,-0.65,-1
+upset and hurt,-0.95,-1
+i feel irritated,-0.8,-1
+i feel exasperated,-0.8,-1
+a little annoyed and exasperated at the course in putting a lot of work on myself,-0.8,-1
+frustrated and mildly angry,-0.8,-1
+i am a bit frustrated because i dont know what i am supposed to do but besides that i am feeling pretty okay,-0.35000000000000003,-1
+slightly impatient,-0.8,-1
+slightly agitated,-0.8,-1
+frustrated sad overwhelmed,-0.9333333333333333,-1
+in pretty irritable and annoyed by everyone right now and i need alone time but no one will give me any,-0.8,-1
+upset and scared,-0.95,-1
+sexually frustrated bored,-0.45,-1
+upset sad angry disappointed pessimistic,-0.925,-1
+a little be impatient,-0.8,-1
+a bit agitated,-0.8,-1
+frustrated and tired and impatient,-0.65,-1
+frustrated worried disappointed,-0.8,-1
+upset and angry,-0.95,-1
+very very very very upset,-0.9,-1
+impatient and tired and disillusioned,-0.65,-1
+i feel upset but nervous in a good way,-0.95,-1
+in frustrated and hot,-0.65,-1
+annoyed stressed angry,-0.6333333333333333,-1
+annoyed but happy,0.09999999999999998,1
+critical,-0.8,-1
+upset confused insecure ensure,-0.5,-1
+frustrated and discouraged,-0.8,-1
+upset and lonely,-0.65,-1
+bit fed up but ok,-0.35000000000000003,-1
+earlier today i had a fight with my boyfriend and i wa pretty upset but we made up and in feeling better now,-0.8,-1
+annoyed angry,-0.9,-1
+fed up and frustrated,-0.8,-1
+a little annoyed but good otherwise,-0.8,-1
+grumpy tired frustrated lonely,-0.6,-1
+frustrated and disrespected,-0.8500000000000001,-1
+a little agitated,-0.8,-1
+i feel upset i am unlucky,-0.8,-1
+in feeling a little annoyed and anxious about a social situation in going to,-0.9,-1
+better,0.2,1
+in feeling better,0.2,1
+better than yesterday,0.2,1
+a little better,0.2,1
+could be better,0.2,1
+a bit better than yesterday i feel more awake but also still a bit lame,0.2,1
+better than average,0.2,1
+happier,0.2,1
+getting better,0.2,1
+a bit better,0.2,1
+i feel better than this morning,0.2,1
+calmer,0.2,1
+i feel calmer than the other day because some feeling settled with my crush,0.2,1
+in feeling better than last night,0.2,1
+a little bit better,0.2,1
+i am feeling better relaxed,0.2,1
+wa feeling a better in the afternoon but then again deep sad,0.2,1
+in feeling better than yesterday,0.2,1
+better i think,0.2,1
+in doing better then this morning,0.2,1
+better but trying to chill,0.2,1
+better relatively calm,0.2,1
+some better after awful yesterday,0.2,1
+a lot better than yesterday,0.2,1
+feeling better still a bit sick but improving,0.0,0
+feeling much better than earlier this week happy that i get to take some time offvacation soon and feeling good that madison is returning tonight,0.2,1
+better than usual but a bit numb,-0.19999999999999998,-1
+better a little happier,0.2,1
+i am getting better at controlling my emotion,0.2,1
+i wish i wa a happier person,-1.0,-1
+feeling better than i have lately,0.2,1
+in doing much better not so sad,0.2,1
+better than okay,0.2,1
+slightly better,0.2,1
+give feel better than yesterday,0.2,1
+i am feeling slightly better than normal,0.2,1
+better than expected,0.2,1
+feeling better,0.2,1
+it getting better,0.2,1
+slept longer so better,0.2,1
+better than earlier,0.2,1
+a little bit better then arrange and better then usual after chatting with ex,0.2,1
+better than earlier relax,0.2,1
+somewhat better,0.2,1
+there is some event that make me feel better but in still not sure about it,0.2,1
+trying to find purpose in my life weekend are tough for me i feel better during the week when i have the focus and distraction of work,0.2,1
+better alright,0.2,1
+i feel much better than yesterday and in excited bc in going to canada on friday,0.2,1
+in feeling a little better in learning a lot about my thoughts and feeling i still get anxious about stuff but so far this day it not bad,0.2,1
+better than good,0.2,1
+i need to get better higher energy,0.2,1
+better than yesterday,0.2,1
+in trying to be realistic about my need to do and be better,0.2,1
+in feeling better than the last time but it still feel like something is wrong in my life,0.2,1
+a bit better today,0.2,1
+better than before natleast i dont have that much of nativity now,0.2,1
+calmer disappointed,-0.19999999999999998,-1
+feeling a bit better,0.2,1
+in feeling better maybe even good,0.2,1
+feeling better about housing now that i have a short term place of stay,0.2,1
+i feel better,0.2,1
+calmer ,0.2,1
+a bit better than yesterday more grounded and positive still a bit low tough,0.2,1
+in feeling better than i wa an hour or two ago,0.2,1
+better in annoyed at rachel i hate it when people agent willing to defend their position also i miss lip and wish he would call me,-0.30000000000000004,-1
+feeling a lot better trying harder to keep house clean and organized,0.2,1
+getting better from my sickness,0.0,0
+in doing better today not one hundred percent but in better than yesterday,0.2,1
+calmer than usual,0.2,1
+feeling better now,0.2,1
+getting ready to go sleep mood is better than earlier today,0.05,1
+better lighter calmer on the inside i had a good sleep and went to the grm and have thing to look forward to today,0.2,1
+improving i feel better today,0.2,1
+happier bored,0.05,1
+better than yesterday but in still feeling a little bit down,0.2,1
+much better than earlier today,0.2,1
+been better,0.2,1
+much better,0.2,1
+better than these day,0.2,1
+normal,0.0,0
+average,0.0,0
+so so,0.0,0
+bah,0.0,0
+soto,0.0,0
+middle,0.0,0
+mediocre,0.0,0
+mild,0.0,0
+moderate,0.0,0
+in feeling normal,0.0,0
+wish,0.0,0
+i feel normal,0.0,0
+middle of the road,0.0,0
+middling,0.0,0
+plain,0.0,0
+pretty normal,0.0,0
+it normal,0.0,0
+below average,0.0,0
+i feel pretty normal,0.0,0
+kind bah,0.0,0
+normal i guess,0.0,0
+a little bah,0.0,0
+despite the situation in kind normal i think better than previous day,0.1,1
+feeling average,0.0,0
+coming,0.0,0
+pretty average,0.0,0
+standard,0.0,0
+just normal,0.0,0
+normal confused,0.0,0
+middle energy sore muscle feel like relaxing,0.0,0
+normal a little passed at mon,0.0,0
+pretty mediocre,0.0,0
+pretty average tired not motive,-0.43333333333333335,-1
+pretty normal looking forward to the next few week,0.5,1
+so i woke up ate breakfast and in feeling normally all the time,0.0,0
+wish anxious a bit,-0.5,-1
+normal na little worn out,0.0,0
+i feel a tiny bit below normal,0.0,0
+normal,0.0,0
+middle feeling a bit apprehensive,0.0,0
+pretty average had some low today where i felt quite guilty but they passed quite quickly other than that give been feeling just fine,0.0,0
+5050 due to waking up,0.0,0
+perfectly normal,0.0,0
+normal excited,0.5,1
+normal and mad,-0.5,-1
+pretty normal for now,0.0,0
+pretty bah i have a kidney infection,0.0,0
+just kind bah,0.0,0
+middle again,0.0,0
+my energy is middle,0.0,0
+feeling so so,0.0,0
+i feel pretty average not good and not bad,0.0,0
+all right pretty much middle of the road,0.0,0
+fairly average maybe a bit low,0.0,0
+bah not happy not excited,0.0,0
+in just feeling normal a little board,0.0,0
+average i dont feel a down a i did a week ago,0.0,0
+in feeling normal,0.0,0
+average nothing special,0.0,0
+i feel pretty normal today and maybe a little happier than usual,0.0,0
+i feel i normal emotion just come and go and all i need to learn is to sit with them,0.0,0
+sort of bah,0.0,0
+bah with a minor overwhelming feeling,0.0,0
+in kind of in the middle fine,0.0,0
+so so happy to be home,1.0,1
+normal a bit anxious,-0.5,-1
+middle a little tired,-0.25,-1
+kind normal,0.0,0
+normal nothing special today,0.0,0
+average to good,0.0,0
+they have been moderate,0.0,0
+in doing so so right now,0.0,0
+feeling normal a bit tired,-0.25,-1
+mediocre still craving something new and different,0.0,0
+average i guess,0.0,0
+mostly plain,0.0,0
+middle to up,0.0,0
+almost normal so so,0.0,0
+i am average,0.0,0
+mediocre in not feeling very negative about life school wa fine nothing particularly distressful happened but give been on edge and feeling really sensitive after school i went to the shop and felt insanely anxious finding it hard to calm down after a few distressful encounter,0.0,0
+i feel normal little bored of the work and i fell that i underestimate myself i feel like i should be doing more than what i do right now,-0.05,-1
+in feeling pretty bah and a little bit anxious over some client work in putting off,-0.5,-1
+normal id like to be home though,0.0,0
+normal and even,0.0,0
+normal a little anxious about the sleep i may not have in the future,-0.5,-1
+normal a little under the weather due to cold and fly,-0.1,-1
+pretty soto,0.0,0
+normally,0.0,0
+bah but feel i can accept the situation,0.0,0
+middle energy but relaxed,0.5,1
+middle mood,0.0,0
+mild stress,0.0,0
+5050,0.0,0
+blast,0.0,0
+middle it not bad i am trying to make some plan i dont know yet what i am going to do this summer so i am thinking a lot,0.0,0
+in average,0.0,0
+normal a little drunk maybe,0.0,0
+blew average,0.0,0
+i feed so so so sad and can breathe,0.0,0
+me,-0.3,-1
+eh,-0.3,-1
+nothing,-0.3,-1
+empty,-0.3,-1
+flat,-0.3,-1
+eh,-0.3,-1
+nothing special,-0.3,-1
+blank,-0.3,-1
+dull,-0.3,-1
+dead,-0.3,-1
+motionless,-0.3,-1
+i feel nothing,-0.3,-1
+none,-0.3,-1
+enthusiastic,-0.3,-1
+i feel empty,-0.44999999999999996,-1
+i dont feel anything,-0.3,-1
+dead inside,-0.3,-1
+hollow,-0.3,-1
+each,-0.3,-1
+kind empty,-0.44999999999999996,-1
+bland,-0.3,-1
+i am feeling empty,-0.44999999999999996,-1
+in not feeling anything,-0.3,-1
+in feeling empty,-0.44999999999999996,-1
+nothing much,-0.3,-1
+emptiness,-0.44999999999999996,-1
+nothing in particular,-0.3,-1
+whatever,-0.3,-1
+in feeling me,-0.3,-1
+a bit flat,-0.3,-1
+nothing really,-0.3,-1
+flat low mood and lacking energy,-0.3,-1
+pretty me give been pretty motionless and dissociated,-0.3,-1
+eh ltd vs feu get go fuck,-0.3,-1
+dull numb maybe,-0.3,-1
+a bit empty,-0.44999999999999996,-1
+me in not sure,-0.3,-1
+seems nothing interest me,-0.3,-1
+flat but okay,-0.3,-1
+eh in ok,-0.3,-1
+me okay,-0.3,-1
+actually nothing,-0.3,-1
+me ,-0.3,-1
+me a little sad down on myself,-0.65,-1
+my grandfather is dead in sad,-0.7666666666666666,-1
+in empty and bored,-0.44999999999999996,-1
+me in ok nothing bad just neutral,-0.3,-1
+eh fine,-0.3,-1
+feeling quite flat,-0.3,-1
+none of these,-0.3,-1
+empty and vulnerable,-0.5666666666666667,-1
+enthusiastic and stressed,-0.3,-1
+in feeling empty and numb and confused,-0.3,-1
+in a bit empty,-0.44999999999999996,-1
+a bit me,-0.3,-1
+empty,-0.44999999999999996,-1
+hm me i think,-0.3,-1
+me in not sad but in not shipper either,-0.3,-1
+eh to try u do un,-0.3,-1
+nothing special quite happy i guess,-0.3,-1
+in feeling nothing,-0.3,-1
+a little hollow and in not up to doing much,-0.3,-1
+me in quitting smoking,-0.3,-1
+i feel a little flat,-0.3,-1
+nothing just watching to,-0.3,-1
+it a eh,-0.3,-1
+honestly i feel empty inside,-0.3,-1
+nothing much at all kind me,-0.3,-1
+empty bored lonely unable to improve unable to live a good life,-0.375,-1
+empty i thin,-0.44999999999999996,-1
+so robotic,-0.3,-1
+in all honesty empty,-0.44999999999999996,-1
+empty but not in a bad way necessarily,-0.44999999999999996,-1
+empty once more,-0.44999999999999996,-1
+me i just want these edit to finish so i can come home and asleep,-0.3,-1
+eh and tired,-0.4,-1
+eh i feel sad but i dont know why,-1.0,-1
+empty and sad,-0.6333333333333333,-1
+kind of me overall but excited to dance with fire,-0.3,-1
+me not good not bad,-0.3,-1
+no emotion,-0.3,-1
+eh it ok,-0.3,-1
+just me,-0.3,-1
+nothing at all,-0.3,-1
+eh kind annoyed,-0.55,-1
+nothing to complain about,-0.3,-1
+me fine i think,-0.3,-1
+hollow deep sense of nothing,-0.3,-1
+tiresome feeling of emptiness and lacking social connection with terrible boredom,-0.4666666666666667,-1
+just relaxingcooler than usual whatever i be we he,0.35,1
+another me day,-0.3,-1
+motionless ahahah,-0.3,-1
+me missed my dr appointment so now i have to get up super early for the walk in clinic,-0.3,-1
+there is nothing i can do,-0.3,-1
+like nothing is worth doing and it painless trying,-1.0,-1
+i am feeling nothing,-0.3,-1
+pretty blank tired sad,-0.6,-1
+feeling flat neutral,-0.3,-1
+very flat and wiped,-0.3,-1
+scared,-1.0,-1
+afraid,-1.0,-1
+terrified,-1.0,-1
+fearful,-1.0,-1
+scared sad remorseful,-0.9333333333333333,-1
+scared but excited,0.0,0
+scared stressing,-0.55,-1
+scared depressed self conscious,-1.0,-1
+scared stressed worried,-0.7,-1
+scared shake,-1.0,-1
+my body hurt in a little scared,-1.0,-1
+scared and angry,-1.0,-1
+scared i wont do well at work,-1.0,-1
+scared about body,-1.0,-1
+in scared,-1.0,-1
+she literally scared the fuck out of me anxious scared n worried,-1.0,-1
+scared lonely no one trust me,-0.75,-1
+scared because my cat is sick,-1.0,-1
+a little scared happy,0.0,0
+scared prepared and nervous,-1.0,-1
+kind of scared and sad,-1.0,-1
+a little bit scared but still pretty relaxed,0.0,0
+scared and alone,-0.75,-1
+a mix between expiration and fear,0.0,0
+in afraid i shouldn be but i am because thing seem to go wrong when i least expect them to,-1.0,-1
+in feeling fearful and sad,-1.0,-1
+afraid of people,-1.0,-1
+a little scared,-1.0,-1
+a bit scared agitated inspired,-0.26666666666666666,-1
+with fear,-1.0,-1
+frightened,-1.0,-1
+scared about husband,-1.0,-1
+fear,-1.0,-1
+afraid life will pas me by,-1.0,-1
+terrified scared,-1.0,-1
+scared and i dont know what to do,-1.0,-1
+i am feeling afraid,-1.0,-1
+scared and lonely and shake,-0.7666666666666667,-1
+in afraid to ask because i dont know what will happen,-1.0,-1
+scared but ill be fine soon,-1.0,-1
+scared anxious unwell,-0.7333333333333334,-1
+i am scared,-1.0,-1
+scare,-1.0,-1
+scared lonely,-0.75,-1
+lazy,-0.2,-1
+a bit lazy,-0.2,-1
+i feel a little lazy and dont want to do cook,-0.2,-1
+i am feeling lazy,-0.2,-1
+lazy inadequate face smiling anxious selfpity ensure embarrassed nonsocial,-0.2,-1
+lazy avoiding but justified,-0.2,-1
+feeling lazy,-0.2,-1
+lazy unmotivated,-0.5,-1
+in feeling a bit lazy and productive,-0.5,-1
+feeling a it of lazy since morning sleepy,-0.15000000000000002,-1
+i am lazy from a night with little sleep,-0.15000000000000002,-1
+lazy and hopeless,-0.6,-1
+i feel a little lazy,-0.2,-1
+lazy buggy,-0.2,-1
+lazy and annoyed,-0.5,-1
+body is lazy and feel sad,-0.6,-1
+very lazy,-0.2,-1
+lazy unmotivated,-0.5,-1
+lazy tired bored,-0.26666666666666666,-1
+lazy guilt disappointment,-0.5333333333333333,-1
+i feel lazy,-0.2,-1
+lazy happy,0.4,1
+lazy,-0.2,-1
+lazy productive calm,-1.850371707708594e-17,-1
+lazy havana,-0.2,-1
+in feeling lazy,-0.2,-1
+confused,-0.1,-1
+mixed,-0.1,-1
+lost,-0.1,-1
+conflict,-0.1,-1
+weird,-0.1,-1
+complicated,-0.1,-1
+mixed feeling,-0.1,-1
+confuse,-0.1,-1
+strange,-0.1,-1
+confusing,-0.1,-1
+ambivalent,-0.1,-1
+resistant,-0.1,-1
+mixed emotion,-0.1,-1
+puzzled,-0.1,-1
+perplexed,-0.1,-1
+disillusioned,-0.1,-1
+blocked,-0.1,-1
+i feel lost,-0.1,-1
+wrapped,-0.1,-1
+a bit lost,-0.1,-1
+a bit weird,-0.1,-1
+in confused,-0.1,-1
+wired,-0.1,-1
+torn,-0.1,-1
+a little odd but generally good,-0.1,-1
+confused and concerned about her,-0.1,-1
+a little confused about a relationship with a girl i dont know if in in love and i should do something or keep being friend and keep my current relationship with my current wife,-0.1,-1
+i have mixed feeling bad one from my family and good one from everything else,-0.1,-1
+my hand feel weird but i dont feel too bad,-0.1,-1
+it a mixed bag in happy with how thing are going with kilroy in thankful for the close friend and family in my life in rather annoyed at one person in a particular though because she act in presumptuous entitled and malicious way,0.03333333333333332,1
+dazed,-0.1,-1
+weird thinking about something i shouldn be,-0.1,-1
+i am feeling a bit lost,-0.1,-1
+conflict because i know i love her but the situation is really complicated,-0.1,-1
+lost empty sad depressed broke,-0.6,-1
+confused sad lonely tired,-0.525,-1
+i feel sort of a little confused and guilty,-0.45,-1
+confused and frustrated,-0.45,-1
+confused by other people action lonely,-0.3,-1
+it wa strange people use interesting a a backhanded comment sarcastic,-0.1,-1
+in just so lost,-0.1,-1
+conflict my ex posted a cut picture of herself,-0.1,-1
+i feel weird confused in a little angry,-0.55,-1
+conflict and tired,-0.3,-1
+a little mixed happy in my personal life but i wanting to achieve more professionally,-0.3,-1
+in feeling conflict,-0.1,-1
+confused grumpy frustrated but also happy to have enough time to rest and relax,-0.225,-1
+justified,-0.1,-1
+in confused and scared,-0.55,-1
+a little weird,-0.1,-1
+mixed here,-0.1,-1
+i feel like my family is being torn apart,-0.1,-1
+a little lost not very focused hard to start thing but once i start them in good,-0.1,-1
+confused and thoughtful,0.0,0
+mixed state,-0.1,-1
+mixed depressed but glad to meet you,-0.55,-1
+confused about the future,-0.55,-1
+perplex,-0.1,-1
+puzzled and confused,-0.1,-1
+mixed but enjoying the breeze,-0.1,-1
+lost not stress accomplished,-0.1,-1
+confused about this boy,-0.1,-1
+confused my friend asked me what my ideal hair colour are and what my favourite colour are with no explanation,-0.1,-1
+conflict excited nervous,-0.03333333333333333,-1
+in confused and depressed,-0.55,-1
+lost and tired,-0.3,-1
+confused about my marriage,-0.1,-1
+keep me confused all time,-0.1,-1
+in a little confused  on some thing but content,-0.1,-1
+confused devastated worried upset numb,-0.65,-1
+kind weird in involved in a lot at work which is awesome but i am starting to have observance issue with my girlfriend which kind put a went in my high,-0.1,-1
+confused and overthinking,-0.55,-1
+it too complicated to talk,-0.1,-1
+mixed emotion happy yet a ll afraid,-0.03333333333333333,-1
+a lot of mixed emotion,-0.1,-1
+confused but okay,0.0,0
+am simply mixed ,-0.1,-1
+pitched it weird,-0.1,-1
+lost a if,-0.1,-1
+i just feel a bit weird like everything is sort of useless but it doesn necessarily depress me,-0.1,-1
+lost and hopeless,-1.0,-1
+bit confused and resistant,-0.1,-1
+conflict a bit sad,-0.1,-1
+lost my brother last week so i am sad,-1.0,-1
+feel strange,-0.1,-1
+confused sad angry,-0.7,-1
+feeling lost,-0.1,-1
+confused and stressed,-0.1,-1
+bit confused and upset,-0.5,-1
+confused and uneasy,-0.3,-1
+conflict but not bad,0.0,0
+confused and nervous,-0.55,-1
+conflict happy because i had a good weekend with a guy i like anxious because the work week ha started and there a lot of pressure,0.26666666666666666,1
+i feel confused about how in doing it so variable sometimes i am furious sometimes in ok but it hard to even believe when thing feel fine it feel face a little or temporary in daydreaming a lot about moving to scotland in so angry life go on regardless of where in at it seems,-0.3333333333333333,-1
+perplexed a ensure which country to live in,-0.1,-1
+confused and scared,-0.55,-1
+confused dejected,-0.1,-1
+just off weird and lethargy,-0.1,-1
+a bit confused a bit anxious,-0.55,-1
+in feeling mixed up,-0.1,-1
+productive,0.5,1
+accomplished,0.5,1
+determined,0.5,1
+ambitious,0.5,1
+concentrated,0.5,1
+driven,0.5,1
+not productive,0.5,1
+ready to work,0.5,1
+ready for work,0.5,1
+i feel productive,0.5,1
+like i got thing accomplished today,0.5,1
+accomplished and good,0.5,1
+productive and proud,0.75,1
+i am not studying and not happy people are asking thing about my career that i dont like,-0.9,-1
+accomplished tired,0.0,0
+productive happy,0.75,1
+i am determined but skeptically on my future direction,0.0,0
+productive and happy,0.75,1
+accomplished from last night,0.5,1
+accomplished and calm,0.75,1
+i feel that i have accomplished nothing today,-0.5,-1
+accomplished but exhausted,0.0,0
+in feeling productive but tired after a long day,0.0,0
+ready to be productive and to have a good friday,0.5,1
+studying,0.5,1
+productive day working from home,0.5,1
+determined to finish it and make it good,0.5,1
+accomplished successful patient,0.5,1
+feeling determined,0.5,1
+feeling fairly productive,0.5,1
+feeling productive,0.5,1
+accomplished and tired,0.5,1
+in determined,0.5,1
+like i accomplished a lot today and had fun and relaxed,0.5,1
+productive and inspired,0.75,1
+in feeling accomplished and anxious,-0.25,-1
+in trying to be productive,0.5,1
+i feel accomplished because i cleaned my room today,0.5,1
+determined to get back to poland,0.5,1
+productive hungry and content,0.4666666666666667,1
+in just trying to be productive,0.5,1
+wanting to be productive,0.5,1
+i feel like i did not accomplish  lot of thing in my work and in my personal life,0.5,1
+i feel accomplished happy and a little tired,0.3333333333333333,1
+determined and ready to fight ll,0.5,1
+i feel determined will regain the necessary performance,0.5,1
+accomplished but tired,0.0,0
+determined to do well on the exam,0.5,1
+accomplished nervous,-0.25,-1
+feeling accomplished,0.5,1
+in feeling accomplished and a little worried and sad,-0.5,-1
+i feel productive and neutral,0.3,1
+determined to succeed,0.5,1
+concentrated anticipated and worry how manage all my task,0.5,1
+i am feeling productive,0.5,1
+i feel determined,0.5,1
+in feeling accomplished but in also really exhausted,0.0,0
+accomplished and frustrated,-0.15000000000000002,-1
+feeling productive indifferent normal,0.3,1
+accomplished and getting my reward,0.75,1
+accomplished and worried,-0.25,-1
+productive and useful,0.5,1
+productive and thrifty,0.5,1
+not productive tired and work down,-0.65,-1
+got a lot accomplished today and feel good but in just tired from the physical work,0.5,1
+driven game,0.5,1
+productive happy a little uneasy,0.3333333333333333,1
+accomplished yet apprehensive,-0.25,-1
+semi productive,0.5,1
+hungry,-0.1,-1
+i feel hungry,-0.1,-1
+in hungry,-0.1,-1
+hungry and tired,-0.3,-1
+in feeling hungry,-0.1,-1
+hungry and bored,-0.1,-1
+hungry and happy,0.45,1
+angry,-0.1,-1
+hungry  and i can feel that give made a good lookout today,-0.1,-1
+hungry and optimistic,-0.1,-1
+hungry restless,-0.15000000000000002,-1
+hungry sad for down,-0.1,-1
+in hungry so imnexcited about cooking something mummy,0.45,1
+in a little hungry but i feel all right,-0.1,-1
+hungry ,-0.1,-1
+in hungry,-0.1,-1
+hungry mostly,-0.1,-1
+kind hungry and tired,-0.3,-1
+hungry and my head hurt,-0.55,-1
+out of energy hungry hopeless empty,-0.55,-1
+hungry ll,-0.1,-1
+hungry and a bit energetic,0.45,1
+hungry and excited for the day,0.45,1
+in feeling hungry and a little tired,-0.3,-1
+hungry but i just woke up,-0.1,-1
+i have to eat in hungry ll,-0.1,-1
+i am hungry,-0.1,-1
+hungry and relaxed,0.45,1
+i feel hungry and angry,-0.55,-1
+a little tiredworn out i guess and hungry been here for 11 hour and now i need to go home quickly eat and work on my paper edit but such is life i guess,-0.3,-1
+in hungry and i am feeling content,0.45,1
+in hungry i can eat,-0.1,-1
+hungry and both,-0.1,-1
+hungry,-0.1,-1
+hungry hata,-0.1,-1
+feel hungry and agitated,-0.45,-1
+hungry and stressed,-0.1,-1
+i am very hungry,-0.1,-1
+hungry and scared,-0.55,-1
+feeling hungry,-0.1,-1
+a bit hungry,-0.1,-1
+zone out hungry lymph node are swollen,-0.15000000000000002,-1
+hungry a hell,-0.1,-1
+i am hungry otherwise i feel good,-0.1,-1
+disappointed,-0.5,-1
+discouraged,-0.5,-1
+disappointed,-0.5,-1
+dejected,-0.5,-1
+disheartened,-0.5,-1
+i feel disappointed,-0.5,-1
+disappointed in myself,-0.5,-1
+disappointed in work and apprehensive about my partner mood,-0.75,-1
+unsatisfied,-0.5,-1
+i feel discouraged,-0.5,-1
+i feel disappointed tired upset,-0.6333333333333333,-1
+in very disappointed sad and overwhelmed,-0.8333333333333334,-1
+i feel disappointed because of the way a personal relationship is going,-0.5,-1
+i feel a bit disappointed become john isn free tomorrow,-0.5,-1
+a bit discouraged,-0.5,-1
+i felt a little disappointed because i did not deliver up to the standard of my boy,-0.5,-1
+a bit disappointed,-0.5,-1
+i am currently feeling in balance little disappointed in my ability to sleep properly,-0.5,-1
+disappointed angry,-0.75,-1
+discourage,-0.5,-1
+i am disappointed with the human kind,-0.5,-1
+in disappointed in myself,-0.5,-1
+a little discouraged,-0.5,-1
+disappointed by my friend,-0.5,-1
+disappoint,-0.5,-1
+i am disappointed sad and frustrated,-0.7666666666666667,-1
+i feel a bit dejected because my friend doesn feel content and i can help her,-0.5,-1
+disappointed,-0.5,-1
+a bit disappointed but mostly very positive,-0.5,-1
+disappointed ,-0.5,-1
+disappointed i dont focus better in tennis,-0.5,-1
+pretty discouraged,-0.5,-1
+disappointed and depressed,-0.75,-1
+disappointed and dissatisfied,-0.5,-1
+i feel kind disappointed annoyed,-0.65,-1
+disappointed in myself worried in slipping back into depression a little anxious about work next week it might all go to shit,-0.75,-1
+i feel a little disappointed,-0.5,-1
+in disappointed tired hurt pained suffering emotional beaten mentally tortured physically abusing my body just holding into a thread,-0.575,-1
+very disappointed,-0.5,-1
+disappointed with myself i can find motivation i let myself down,-0.65,-1
+unsatisfied le than inspired,-0.5,-1
+a little disappointed,-0.5,-1
+in disappointed in myself for eating so much feel sick,-0.23333333333333334,-1
+dejected but hopeful,-0.5,-1
+disappointed alone empty,-0.475,-1
+i am feeling disappointed fat but proud that i restrained from singing,0.5,1
+i am feeling a little disappointed in myself and kind of directionless,-0.5,-1
+mildly disappointed,-0.5,-1
+pretty disappointed in my self,-0.5,-1
+a bit disappointed by a medical visit but not sad,-0.5,-1
+dissatisfied,-0.5,-1
+discourage at work and at home,-0.5,-1
+i am disappointed with myself,-0.5,-1
+bittersweet,-0.5,-1
+disappointed undervalued,-0.5,-1
+disappointed and frustrated,-0.65,-1
+terrible,-1.0,-1
+awful,-1.0,-1
+despondent,-1.0,-1
+broken,-1.0,-1
+heart broken,-1.0,-1
+bit despondent and disappointed,-0.75,-1
+not terrible but not great,0.1,1
+awful and sad,-1.0,-1
+terrible and ill,-0.6,-1
+i feel awful sad guilty,-0.9333333333333333,-1
+terrible and okay,-0.45,-1
+i feel terrible,-1.0,-1
+literally terrible ll,-1.0,-1
+awful,-1.0,-1
+fucking terrible,-1.0,-1
+awful down ill terrible any word that could describe feeling bad that me,-1.0,-1
+despondent unenthused worried,-0.9333333333333333,-1
+awful hopeless lonely empty,-0.775,-1
+terrible had a fight with friend,-1.0,-1
+fucking terrible in angry and sad and depressed and i anna scream out loud,-1.0,-1
+terrible,-1.0,-1
+desperate,-1.0,-1
+really awful and hopeless i feel wrapped and unwanted in my family,-1.0,-1
+i have no money in broke a in broken,-1.0,-1
+i dont know,-0.1,-1
+ink,-0.1,-1
+dont know,-0.1,-1
+not sure,-0.1,-1
+ensure,-0.1,-1
+in not sure,-0.1,-1
+no idea,-0.1,-1
+i dont really know,-0.1,-1
+undecided,-0.1,-1
+i dont know how to describe it,-0.1,-1
+in between,-0.1,-1
+i really dont know,-0.1,-1
+i often feel like i dont know to be a human being,-0.1,-1
+a ll undecided on what to do next,-0.1,-1
+ink a little bit sad,-1.0,-1
+i dont really know if in going to be honest i really can feel anything,-0.1,-1
+not really that well because of my period,-0.1,-1
+i dont know i wa anxious earlier,-0.1,-1
+i dont know happy,1.0,1
+feeling ensure about myself,-0.1,-1
+a bit ensure how the current engagement will evolve,-0.1,-1
+i dont know but there is a lot of it,-0.1,-1
+mmm i dont really know,-0.1,-1
+in not sure in not well but at the moment in not feeling terrible either distracting myself with thing i enjoy but also need me concentrating help avoid my feeling abbot,-0.1,-1
+not really feeling much kind of numb i feel a little bit like a spare part,-0.44999999999999996,-1
+i dont know what in feeling,-0.1,-1
+i dont know i think i am feeling ok after yesterday hanover,-0.1,-1
+not really good give been playing until 200 am again,-0.1,-1
+in not sure pretty good though i think,-0.1,-1
+i feel not the best with that a bit careless not really sure what i can do to change this,-0.1,-1
+in not really sure,-0.1,-1
+in between sad and content,0.0,0
+i dont know how i feel ,-0.1,-1
+ink sad,-0.1,-1
+in not sure who i am all the time i have sad feeling and lonely feeling i dont like this it very hard to deal with i want to be happy but my inside are sad,-0.75,-1
+i dont know what to feel or think,-0.1,-1
+in not sure but i guess that i feel pretty down,-1.0,-1
+ensure if rules actually like me,-0.1,-1
+i dont know what my passion,-0.1,-1
+like ink what to do,-0.1,-1
+i dont know tired,-0.5,-1
+lacking in confidence and ensure about the future,-0.1,-1
+in not sure not great not bad somewhere in between,0.0,0
+ensure ,-0.1,-1
+hut,-0.1,-1
+funny,-0.1,-1
+in not really feeling anything a little tired and sluggish but not overlay so,-0.65,-1
+in not sure about it,-0.1,-1
+i dont really know,-0.1,-1
+not really feeling much of anything right now,-0.1,-1
+dont know what to do,-0.1,-1
+ink ok but still stressed tired,-0.16666666666666666,-1
+i want something i dont know if i can have it,-0.1,-1
+i dont know just ok,-0.1,-1
+not really sure,-0.1,-1
+not really good,-0.1,-1
+feel like there hope but dont know where it at,-0.1,-1
+i dont know what you mean,-0.1,-1
+playful but that not really a feeling is it maybe eager to get started,-0.1,-1
+i really dont know like kind tired and frustrated but in okay,-0.4,-1
+i dont know not good not bad,-0.1,-1
+in not sure how i feel,-0.1,-1
+waitingnnno ideanntried nnhungrynnthirsty,-0.1,-1
+i have no idea,-0.1,-1
+high,0.0,0
+drunk,0.0,0
+tipsy,0.0,0
+stoned,0.0,0
+tucked,0.0,0
+high as,0.0,0
+high energy but not in a good way,0.0,0
+in hell high at the space needle but oh well you live some you lose some,0.0,0
+marijuana high thinking too much overthinking social interaction,-0.5,-1
+tipsy but happy,0.0,0
+feel high and satisfied,0.0,0
+little high,0.0,0
+high spirit,0.0,0
+high and relaxed,0.5,1
+bit drunk actually good today,0.0,0
+in really high,0.0,0
+in high,0.0,0
+give been high on folly for 16 hour,0.0,0
+high,0.0,0
+high energy,0.0,0
+feeling high,0.0,0
+i meant high,0.0,0
+quite high,0.0,0
+i want to get high all the time,0.0,0
+in high so in calm and not anxious,0.0,0
+i feel very drunk and in also pretty tired,0.0,0
+mildly high,0.0,0
+i am high,0.0,0
+drunk and happy,0.0,0
+not high and not low,0.0,0
+it a high,0.0,0
+a little drunk,0.0,0
+high energy dont want to sleep,0.0,0
+high ,0.0,0
+ll tipsy and happy and sad,0.0,0
+high energyyyy i misclicked,0.0,0
+in drunk,0.0,0
+extremely tucked off i anna rip someone head off,0.0,0
+back up i meant my mood is high,0.0,0
+i want to tell you my energy is high,0.0,0
+in feeling stoned and happy,0.0,0
+high anxiety,0.0,0
+in pain,-1.0,-1
+sore,-1.0,-1
+pain,-1.0,-1
+hurt,-1.0,-1
+miserable,-1.0,-1
+hurting,-1.0,-1
+painful,-1.0,-1
+devastated,-1.0,-1
+in in pain,-1.0,-1
+pained,-1.0,-1
+ache,-1.0,-1
+my head hurt,-1.0,-1
+painful,-1.0,-1
+in pain tired and a little lonely,-1.0,-1
+stomach hurt,-1.0,-1
+sore and tired,-0.75,-1
+back pain,-1.0,-1
+in pain anxious,-1.0,-1
+i feel miserable,-1.0,-1
+in pain but better,-0.4,-1
+period pain,-1.0,-1
+i am feeling pain,-1.0,-1
+in pain annoyed worried,-0.9333333333333333,-1
+my body hurt from work ah,-1.0,-1
+belly pain and headache,-1.0,-1
+my back is hurting a bit,-1.0,-1
+in a ton of pain,-1.0,-1
+bit sore,-1.0,-1
+hurt and sad,-1.0,-1
+in a lot of pain,-1.0,-1
+hurt sleepy fat,-0.55,-1
+hurt sad isolated,-0.8333333333333334,-1
+pretty sore,-1.0,-1
+devastated wrapped longing confused restless,-0.43333333333333335,-1
+my neck hurt,-1.0,-1
+in pain but happy,0.0,0
+in lot of pain and quite anxious,-1.0,-1
+in a lot of pain because i have a migrate and i can think properly,-1.0,-1
+sore leg,-1.0,-1
+chest hurting,-1.0,-1
+completely devastated shocked overwhelmed discouraged drained of all energy,-0.8333333333333334,-1
+some physical pain but otherwise ok,-1.0,-1
+sore frustrated,-1.0,-1
+apart from sore neck i feel great,-1.0,-1
+brow in in pain,-1.0,-1
+in physical pain in my mouth,-1.0,-1
+my back hurt hata,-1.0,-1
+i hurt physically,-1.0,-1
+stomach pain,-1.0,-1
+in feeling hated and hurt,-1.0,-1
+been in pain and i am feeling sick,-1.0,-1
+i am having some back pain so in not very happy about that woot,-1.0,-1
+neck pain,-1.0,-1
+i feel hurt,-1.0,-1
+in pain isolated sad,-1.0,-1
+le blue but just in pain it is extreme spasm and in anxious about tomorrow because i might not be able to go,-1.0,-1
+in pain kind anxious,-1.0,-1
+in physical pain,-1.0,-1
+ache,-1.0,-1
+my shoulder hurt so not in a really good mood,-1.0,-1
+dealing with a lot of pain,-1.0,-1
+pain and exhaustion,-0.75,-1
+anguish and guilt,-0.9,-1
+exhausted and my head hurt,-1.0,-1
+in sore,-1.0,-1
+i hurt,-1.0,-1
+a little in pain tired,-0.75,-1
+mostly in pain,-1.0,-1
+miserable and worthless,-1.0,-1
+black in some pain,-1.0,-1
+allergic to pollen and my face hurt,-1.0,-1
+she always hurt me not only mental and physical she really want to keep a good kid in front of my mother but she will always forgot about someone else around with her i can stand out for her anymore hope that she could leave my world a soon a possible,-1.0,-1
+in pain,-1.0,-1
+woeboti feeling hurt and painful can you help me,-1.0,-1
+hurt angry,-1.0,-1
+sore and ache my lookout wa harder than i think it should be it wa really hard to get out of bed and i ended my lookout early because i wa so exhausted,-1.0,-1
+on my period heart and kidney hurt,-1.0,-1
+in in physical pain,-1.0,-1
+in in pain and unhappy,-1.0,-1
+physically hurting,-1.0,-1
+pain pain and pain,-1.0,-1
+back hurt,-1.0,-1
+in pain tired caseous lonely,-1.0,-1
+in feeling hurt frustrated put down disappointed and betrayed,-0.9,-1
+in pain frustrated and exhausted,-1.0,-1
+sore toe,-1.0,-1
+in pain a bit,-1.0,-1
+in feel pain,-1.0,-1
+my stomach hurt,-1.0,-1
+in hurt,-1.0,-1
+my sunburnt hurt,-1.0,-1
+my head hurt just a little,-1.0,-1
+ache and excited,0.0,0
+ache in control,-1.0,-1
+in so much pain,-1.0,-1
+want to hurt,-1.0,-1
+languished,-1.0,-1
+in pain ,-1.0,-1
+in in pain but i feel good,-1.0,-1
+hurt annoyed small,-0.9,-1
+unmotivated,-0.8,-1
+apathetic,-0.8,-1
+productive,-0.8,-1
+stuck,-0.8,-1
+demotivated,-0.8,-1
+apathy,-0.8,-1
+dysphoric,-0.8,-1
+no motivation,-0.8,-1
+procrastinating,-0.8,-1
+lack of motivation,-0.8,-1
+disinterested,-0.8,-1
+apathy,-0.8,-1
+unmotivated and depressed,-0.9,-1
+a bit stuck,-0.8,-1
+lack of motivation at work,-0.8,-1
+unmotivated and exhausted,-0.65,-1
+feeling a little unmotivated,-0.8,-1
+in feeling the same a most evening apathy,-0.8,-1
+i feel dysphoric and awful,-0.9333333333333333,-1
+i feel like unmotivated and i can do thing well i have no courage to push myself getting an opportunity,-0.8,-1
+no motivation or interest in doing anything,-0.8,-1
+demotivated and sad,-0.9,-1
+apathetic and hurting negative,-0.9,-1
+kind unmotivated,-0.8,-1
+i feel like not working and procrastinating,-0.8,-1
+in feeling unmotivated,-0.8,-1
+i feel unmotivated,-0.8,-1
+unmotivated worried disappointed in myself,-0.8,-1
+procastinating my study,-0.8,-1
+a little unmotivated,-0.8,-1
+slightly unmotivated but productive,-0.15000000000000002,-1
+too unmotivated to get up,-0.8,-1
+i feel like in stuck in my head in looking thought and feeling and it preventing me from being in the present,-0.8,-1
+unmotivated enthusiastic,-0.8,-1
+apathetic low bored,-0.6333333333333333,-1
+dysphoric and depressed,-0.9,-1
+in feeling unmotivated and distracted,-0.8,-1
+disinterested sad,-0.8,-1
+unmotivated a little frustrated,-0.8,-1
+i feel like in procrastinating too much,-0.8,-1
+like a fraud i feel like in stuck in a gender limbo and in terrified i can find a way to earn money for living,-0.8,-1
+lack luster border unmotivated,-0.8,-1
+unmotivated but pressure,-0.8,-1
+numb,-0.6,-1
+indifferent,-0.6,-1
+distracted,-0.6,-1
+cold,-0.6,-1
+disconnected,-0.6,-1
+uninterested,-0.6,-1
+withdrawn,-0.6,-1
+distant,-0.6,-1
+inspired,-0.6,-1
+listless,-0.6,-1
+i have a cold,-0.6,-1
+intense,-0.6,-1
+kind numb,-0.6,-1
+detached,-0.6,-1
+if,-0.6,-1
+i have the cold,-0.6,-1
+cold and lazy,-0.4,-1
+indifferent but slightly anxious,-0.8,-1
+a little numb,-0.6,-1
+directionless unmotivated dispassionate,-0.7,-1
+i feel very withdrawn and uninterested in life,-0.6,-1
+kind of numb,-0.6,-1
+a bit distracted can quite get in the zone to get my work done,-0.7,-1
+i have a cold i feel tired,-0.55,-1
+detached tired emotional,-0.4666666666666667,-1
+in numb to the fact that another dull week is starting tomorrow,-0.6,-1
+numb and uninterested,-0.7,-1
+distracted lot of thought and with the potential to spiral,-0.6,-1
+numb feeling down and tired,-0.55,-1
+cold and sick,-0.4,-1
+i feel indifferent,-0.6,-1
+mildly indifferent calm but not interested in doing any work low energy,-0.6,-1
+in a bit numb,-0.6,-1
+sum,-0.6,-1
+in in an if mood kind of down but kind of good,-0.6,-1
+distracted,-0.6,-1
+cold and cough,-0.2,-1
+numb bored but content but also questioning life at large,-0.25,-1
+incomplete,-0.6,-1
+just like in numb but ignoring it,-0.6,-1
+i feel inspired,-0.7,-1
+in numb,-0.6,-1
+in feeling cold,-0.6,-1
+completely numb,-0.6,-1
+in being distracted,-0.7,-1
+in just really cold and tired,-0.5,-1
+numb but encouraged to keep doing thing off my to do list,-0.6,-1
+numb and somber,-0.6,-1
+distracted from work somewhat lonely and a little lost,-0.55,-1
+numb muddy,-0.6,-1
+distracted at work,-0.6,-1
+zone out inspired,-0.6,-1
+a little bit cold and give got the snaffle but all in all in good,-0.2,-1
+watching the sunset and distant storm lightning out backward,-0.6,-1
+numb i haven done anything all day and in avoiding my problem,-0.4,-1
+indifference,-0.6,-1
+indifferent but not bad,-0.6,-1
+sort of detached,-0.6,-1
+i feel numb and like a failure,-0.6,-1
+intense and sad,-0.8,-1
+cold and nervous,-0.8,-1
+i feel listless and anxious,-0.8,-1
+catching a cold but in good spirit,-0.2,-1
+getting over a cold,-0.2,-1
+i have a bit of a cold but pretty good otherwise,-0.2,-1
+numb scared anxious frustrated and angry,-1.0,-1
+numb anxious,-0.8,-1
+i feel numb,-0.6,-1
+distracted and unmotivated,-0.7,-1
+relieved,0.2,1
+relief,0.2,1
+relief to good,0.2,1
+relieved i got through my first week back,0.2,1
+in feeling relieved,0.2,1
+i am almost relieved,0.2,1
+relieved and resolved to change,0.2,1
+relieved stressed sad,-0.3,-1
+relieved happy calm,0.7333333333333334,1
+in sort of relieved,0.2,1
+relieved to be home,0.2,1
+relieved,0.2,1
+relieved and content,0.6,1
+relieved tired anxious,-0.43333333333333335,-1
+feeling slightly relieved,0.2,1
+some relief and happy,0.6,1
+relieved that i got some of the paperwork done worried that in going to eat too much today,-0.4,-1
+relieved and hopeful,0.2,1
+relieved bc exam are officially over but worried about my mark in art,-0.4,-1
+relieved to be finished with class,0.2,1
+i feel relieved that i finished patrol so good,0.2,1
+a mix of relief sadness and frustration,-0.30000000000000004,-1
+i feel relieved,0.2,1
+relieved and anxious,-0.4,-1
+relieved undeniably happy,0.6,1
+relieved that work is over,0.2,1
+in relieved,0.2,1
+feeling quite relieved that my presentation went well,0.2,1
+love,1.0,1
+in love,1.0,1
+loved,1.0,1
+warm,1.0,1
+i love you,1.0,1
+in feeling hated and loved broken and sad happy and confused and ah,-0.02,-1
+romantic,1.0,1
+i feel in love,1.0,1
+i love a girl and she doesn that destroyed me,1.0,1
+exercised loved,1.0,1
+love sickness,1.0,1
+in love excited for the weekend happier but still anxious and worried about the future,1.0,1
+i want the love of my life here in my arm,1.0,1
+sympathetic,1.0,1
+loved i guess,1.0,1
+warm full happy,1.0,1
+serenity and loved,1.0,1
+in in love with someone who doesn love me,1.0,1
+very warm,1.0,1
+affectionate,1.0,1
+feeling love,1.0,1
+i love our planet,1.0,1
+loving,1.0,1
+kind of over the point to not daring,-0.6,-1
+in feeling loved,1.0,1
+i feel the need to be loved,1.0,1
+i love music,1.0,1
+in love super happy,1.0,1
+i feel loved by my child and i know that i do not have to be with jose forever possibly a couple more year until kid are a little older,1.0,1
+i have fallen in love with life again i feel alive for the first time in year i am in love with summer and my partner i am finally at peace,1.0,1
+loved and alone,0.5,1
+encouraged warm happy,1.0,1
+i feel a bit in love,1.0,1
+i love food so pretty good,1.0,1
+loved by my family content and happy,1.0,1
+i really want to experience love,1.0,1
+in love happy,1.0,1
+loved and chilled,1.0,1
+my mood is loving,1.0,1
+like he doesn love me anymore,-1.0,-1
+warm and okay,0.55,1
+guilty,-0.7,-1
+ashamed,-0.7,-1
+slow,-0.6,-1
+happy,-0.6,-1
+awkward,-0.6,-1
+embarrassed,-0.6,-1
+like cap,-0.6,-1
+annoying,-0.6,-1
+lame,-0.6,-1
+self conscious,-0.6,-1
+selfconscious,-0.6,-1
+guilty because i turned down a job overwhelmed because i have so much homework to do,-0.8,-1
+slow and tired,-0.55,-1
+guilty but ok,-0.25,-1
+self conscious ugly,-0.6,-1
+embarrassed and worried,-0.6,-1
+cramps,-0.6,-1
+guilty i guess i should be doing work but i can help but stay motionless,-0.7,-1
+i feel guilty for not having done enough of the thing i wanted to do today,-0.6,-1
+guilty relaxed,-0.13333333333333333,-1
+guilty because i wa late,-0.7,-1
+today ha been slow i didn have a breakdown but i haven been happy either just tired,-0.6,-1
+guilty incompetent anxious about percussion afraid of failure,-0.7,-1
+selfconscious nervous and demotivated,-0.8,-1
+mortified and hopeless,-0.8,-1
+a little embarrassed a little giddy,-0.6,-1
+almost ashamed for this honest as poem i wrote but it also a part of my person who know i dont,-0.6,-1
+kind of dim a little slow not much really,-0.6,-1
+like cap because my job is so boring,-0.5,-1
+slow thinking,-0.6,-1
+embarrassed,-0.6,-1
+annoying now,-0.6,-1
+horrid,-0.6,-1
+not belonging guilty a little anxious,-0.8,-1
+guilty i haven done enough work weird about leaving for so long tomorrow leaving everything up in the air disappointed about guy happy to leave everything behind,-0.7,-1
+i feel guilty and sad because give caused it,-0.8,-1
+guilty and anxious,-0.8,-1
+kind happy because in fighting with him again over something stupid,-0.75,-1
+embarrassed,-0.6,-1
+both guilty and relieved,-0.4,-1
+i feel guilty and ashamed of my weight,-0.7,-1
+i feel really guilty and i dont know why and in a bit worried and stressed about the trip in going on next week,-0.7,-1
+guilty about being lazy very tired,-0.7,-1
+guilty and ashamed,-0.7,-1
+ashamed hurt disappointed hating myself,-0.6,-1
+socially awkward,-0.6,-1
+in self conscious and lonely,-0.55,-1
+kind lame,-0.6,-1
+little lame,-0.6,-1
+i feel guilty,-0.7,-1
+pretty happy,-0.75,-1
+a little guilty about not rousing on work but looking forward to seeing family,-0.7,-1
+guilty anxious worse unmotivated a little hopeless,-0.8,-1
+somewhat guilty for not enjoying myself more,-0.7,-1
+confident,1.0,1
+proud,1.0,1
+strong,1.0,1
+empowered,1.0,1
+powerful,1.0,1
+solid in control feeling confident in the future,1.0,1
+confident,1.0,1
+since talking to him i feel more confident and happy,1.0,1
+i feel proud of myself empowered,1.0,1
+i am feeling very optimistic and also empowered,1.0,1
+i feel empowered,1.0,1
+i am very proud of myself,1.0,1
+i feel confident,1.0,1
+pretty confident and hungry,0.45,1
+i am proud of myself satisfied and confident,1.0,1
+confidence,1.0,1
+strong ready,1.0,1
+confident inspiring,1.0,1
+i am not confident,-0.5,-1
+proud and motivate,0.75,1
+abused but strong,1.0,1
+neither here nor there i am feeling confident the,1.0,1
+proud of myself and energetic,1.0,1
+i feel confident in myself,1.0,1
+not confident,-0.5,-1
+powerful,1.0,1
+in more confident with my thought and plan for the future,1.0,1
+i feel powerful,1.0,1
+confident and fearful,1.0,1
+in pretty proud of myself and the thing give done today,1.0,1
+i am confident,1.0,1
+i feel powerful i feel happy,1.0,1
+proud to say no when i mean it,1.0,1
+confident sad,0.0,0
+feeling strong and confident,1.0,1
+powerful indestructible,1.0,1
+in proud of myself,1.0,1
+humbled yet powerful,1.0,1
+proud and excited,1.0,1
+proud of myself,1.0,1
+proud and happy,1.0,1
+confident to make something new and satisfying,1.0,1
+feeling confident,1.0,1
+looking forward to the party confident it will be fun,1.0,1
+pretty relaxed and proud i swam an hour,1.0,1
+confident but impatient,1.0,1
+in proud of myself for be able to help others,1.0,1
+i feel proud that i applied for the job but i still have a lot to do for the tax project,1.0,1
+powerful strong illuminated,1.0,1
+horny,0.1,1
+sex,0.1,1
+honey,0.1,1
+flirt,0.1,1
+flirt good,0.1,1
+slightly horny,0.1,1
+horny and happy,0.1,1
+wet and horny,0.1,1
+honestly a little turned on,0.1,1
+pretty sex,0.1,1
+horny th,0.1,1
+sex ll,0.1,1
+weed horn,0.1,1
+heartbroken,-0.9666666666666667,-1
+missing,-1.0,-1
+homesick,-1.0,-1
+grief,-1.0,-1
+a little homesick,-1.0,-1
+missing him,-1.0,-1
+i miss people,-1.0,-1
+in missing,-1.0,-1
+i miss a friend i dont know if in infatuated with him,-1.0,-1
+i miss julie,-1.0,-1
+i am feeling grief because i have to move across the country in two week i am angry and sad too,-1.0,-1
+i miss the time when stuff want royalty missed up,-1.0,-1
+i miss someone,-1.0,-1
+i miss hannah and in not sure what the best way to tell her how i feel,-1.0,-1
+missing people,-1.0,-1
+i miss my husband and because i dont want to feel alone i am spending time with my family,-1.0,-1
+i miss my girlfriend,-1.0,-1
+in missing him,-1.0,-1
+feeling distrustful of people and missing someone,-1.0,-1
+missing someone,-1.0,-1
+i miss my room at home,-1.0,-1
+a little bit homesick,-1.0,-1
+in a bit homesick,-1.0,-1
+mourning,-1.0,-1
+i miss her,-1.0,-1
+missing camp the quincy people,-1.0,-1
+in missing my befriend right now he wa always here for me and we had the best convoy and i just miss him and i feel alone,-1.0,-1
+i miss my ex,-1.0,-1
+worthless,-1.0,-1
+useless,-1.0,-1
+fat,-1.0,-1
+like a failure,-1.0,-1
+weak,-1.0,-1
+stupid,-1.0,-1
+ugly,-1.0,-1
+gross,-1.0,-1
+incompetent,-1.0,-1
+i feel fat,-1.0,-1
+dumb,-1.0,-1
+inadequate,-1.0,-1
+fat and gross,-1.0,-1
+i feel fat and disgusting,-1.0,-1
+gross and tired and a little upset that i woke up so late,-1.0,-1
+i feel worthless,-1.0,-1
+feel used and stupid,-1.0,-1
+i feel really worthless and depressed,-1.0,-1
+i feel stupid and dumb,-1.0,-1
+feeling stupid about our last conversation,-1.0,-1
+fat disgusting stupid,-1.0,-1
+i am fat and ugly,-1.0,-1
+worthless sad and exhausted,-0.8333333333333334,-1
+you are fucking stupid,-1.0,-1
+stupid hopeless,-1.0,-1
+dumb not good enough,-1.0,-1
+gross tired,-0.75,-1
+useless tired,-0.75,-1
+ugly bored,-0.55,-1
+disgusting,-1.0,-1
+i am useless,-1.0,-1
+inadequate too slow overwhelmed,-1.0,-1
+worthlessness,-1.0,-1
+i feel like garage,-1.0,-1
+i am feeling stupid,-1.0,-1
+little weak,-1.0,-1
+i feel like i am useless can do anything right,-1.0,-1
+i always feel inferior,-1.0,-1
+worthless and broken,-1.0,-1
+i feel inferior,-1.0,-1
+ugly and bad and beautiful but sad,-1.0,-1
+gross and thirty,-1.0,-1
+i feel ugly,-1.0,-1
+feeling like a failure,-1.0,-1
+worthless shame,-1.0,-1
+like in useless,-1.0,-1
+fat kaluga,-1.0,-1
+you are stupid,-1.0,-1
+i feel useless hopeless worthless dumb and depressed,-1.0,-1
+the food is disgusting not me,-1.0,-1
+ugly unattractive,-1.0,-1
+focused,1.0,1
+curious,1.0,1
+interested,1.0,1
+challenged,1.0,1
+alert,1.0,1
+alive,1.0,1
+focused,1.0,1
+in feeling curious,1.0,1
+interesting,1.0,1
+curious and excited,1.0,1
+focused determined,0.75,1
+le interested,1.0,1
+little interested,1.0,1
+feeling intrigues,1.0,1
+curious and engaged,1.0,1
+in feeling stimulated inspired,1.0,1
+fascinate,1.0,1
+focused on work,1.0,1
+competitive outdoing overjoyed focused determined,0.75,1
+like i dont want to be alive any more,-1.0,-1
+not interested in anything,-1.0,-1
+ready and focused,1.0,1
+focused and motivate,1.0,1
+interested in new thing,1.0,1
+curious tired,0.25,1
+in very focused and i like it,1.0,1
+challenged hopeless,0.0,0
+focused on my bowel sensation,1.0,1
+in focused,1.0,1
+like i dont want to be alive anymore,-1.0,-1
+focused yet tired,1.0,1
+alive and full of life,1.0,1
+i feel focused,1.0,1
+curious happy,1.0,1
+i feel focused well and a bit anxious,1.0,1
+very stimulated tired feeling distracted from my pain of missing duncan so it good,1.0,1
+i am feeling alive,1.0,1
+i feel focused and calm,1.0,1
+in feeling interested and engaged though still a tiny bit worried,1.0,1
+alert but posed,1.0,1
+i am feeling challenged about the rat race which i am supposed to run,1.0,1
+in feeling curious about my pattern,1.0,1
+curious relieved,0.6,1
+challenged defeated,-0.8,-1
+stimulated,1.0,1
+ready and alive,1.0,1
+interested i guess,1.0,1
+challenged and exhausted but fighting,-0.3,-1
+i am feeling curious about my future,1.0,1
+alert and beat,1.0,1
+fascinate but worried about the future,1.0,1
+focused and inspired,1.0,1
+restless,-0.2,-1
+battery,-0.2,-1
+a bit restless,-0.2,-1
+i feel a little bit restless,-0.2,-1
+a little bit like i can focus or restless,-0.2,-1
+feeling restless,-0.2,-1
+fidgeted,-0.2,-1
+restless something beat above my chest,-0.2,-1
+a little restless,-0.2,-1
+i had too much coffee so in battery,-0.2,-1
+i feel pretty restless and bored,-0.15000000000000002,-1
+pensive,0.1,1
+melancholy,0.1,1
+contemplative,0.1,1
+thoughtful,0.1,1
+melancholia,0.1,1
+effective,0.1,1
+thinking,0.1,1
+introspective,0.1,1
+contemplation,0.1,1
+i am feeling very effective,0.1,1
+wondering what else i dont know about myself,0.1,1
+a little thoughtful,0.1,1
+contemplative a little exhausted,-0.2,-1
+thinking about my future,0.1,1
+contemplative curious,0.1,1
+over thinking,-0.45,-1
+effective mildly anxious,-0.45,-1
+in a bit melancholy,0.1,1
+in feeling melancholy,0.1,1
+stuffed pensive content,0.3666666666666667,1
+in a little melancholy,0.1,1
+thoughtful but quite sedisfide,0.1,1
+a lot of thinking,0.1,1
+can a little melancholia feeling useful and smart,0.1,1
+i am a bit contemplative right now a i think what should i do now and find the best possible solution about what can i do with my relationship that falling apart it doesn make me anxious for now but i can say it doesn stress me at all so i am thinking all the time and id say in a bit confused,0.1,1
+thinking thing,0.1,1
+gave interview today dont get to meet girl friend thinking of getting thin,0.1,1
+thoughtful confused open,0.0,0
+contemplative a little fragile,-0.35000000000000003,-1
+in pensive,0.1,1
+wondering how in going to get everything done this week stressed,0.1,1
+in just wondering about stuff,0.1,1
+in sensitive,0.1,1
+wondering if there a future for me,0.1,1
+effective give been doing some thinking,0.1,1
+yes pensive pencilive too,0.1,1
+i dont really have a mood in just thinking,0.1,1
+melanotic,0.1,1
+introspective but good,0.1,1
+contemplative hopeless,0.1,1
+inquisitive and introspective,0.1,1
+effective calm happy a bit pensive,0.55,1
+i am feeling pensive in really thinking about past decision and memory good and bad memory i am reflecting on a lot of thing right and i am deciding what to do in the future this may sound bad but it is more goodexciting,0.1,1
+in feeling pensive,0.1,1
+in feeling effective of my life and how i can be a better person i feel like i am a boring person and that i dont have all these amazing hobby or that i dont match up exactly to what my husband like doing which is being outside and i dont like being outside because i dont like being hot and get sunburned i just want to be a better person for him and to be more confident in myself,0.1,1
+a bit melancholia,0.1,1
+had a meltdown thinking about how my husband blamed me during my crisis,-0.6,-1
+cry,-0.9,-1
+cry devastated sad angry,-0.9,-1
+bored,-0.1,-1
+bored and tired,-0.3,-1
+boring,-0.1,-1
+board,-0.1,-1
+i feel bored,-0.1,-1
+in bored,-0.1,-1
+a little bored,-0.1,-1
+bored tired,-0.1,-1
+bored worried and slightly depressed,-0.55,-1
+bored and angry,-0.55,-1
+kind of bored,-0.1,-1
+bored and anxious,-0.55,-1
+a bit bored,-0.1,-1
+bore,-0.1,-1
+bored and lonely,-0.3,-1
+word,-0.1,-1
+bored and happy,0.45,1
+extremely bored,-0.1,-1
+in bored,-0.1,-1
+in feeling bored,-0.1,-1
+bored hungry,-0.1,-1
+bored not very tired but it twin my energy away,-0.1,-1
+bored chased cornered tired,-0.3,-1
+i feel kind of bored but inspired,0.45,1
+bored a bit sad,-0.55,-1
+bored but accomplished,0.45,1
+in bored but happy,0.45,1
+bored and kind sad,-0.55,-1
+bored unemotive,-0.1,-1
+kind bored but good,-0.1,-1
+in feeling bored and lonely,-0.3,-1
+bored and horny,0.0,0
+woodland a little bit bored,-0.1,-1
+bored meaningless,-0.1,-1
+bored frustrated restless,-0.3666666666666667,-1
+bored and bad mood,-0.1,-1
+bored ad a bit tired,-0.3,-1
+a little borednregretful,-0.1,-1
+bored and a little annoyed,-0.45,-1
+bored and annoyed,-0.45,-1
+slightly bored,-0.1,-1
+i feel bored and like i have a brain problem,-0.1,-1
+bored i want to go outside,-0.1,-1
+bored but happy to be near company,-0.1,-1
+i feel slightly bored,-0.1,-1
+bored excited to see my too though,0.45,1
+a little bit bored,-0.1,-1
+bored about life,-0.1,-1
+bored and a bit confused,-0.1,-1
+bored annoyed frustrated worried,-0.6333333333333333,-1
+bored and low,-0.55,-1
+kind bored just shilling out,0.45,1
+bored lonely sad,-0.5333333333333333,-1
+in bored and lonely,-0.3,-1
+bored passed,-0.55,-1
+a bit bored wish i wa having fun,-0.1,-1
+bored and extremely productive,-0.45,-1
+bored tired hopeless good for nothing wrapped,-0.5333333333333333,-1
+bored and disgusted,-0.1,-1
+bored and somewhat defeated,-0.1,-1
+bored and a bit down,-0.1,-1
+confused and bored,-0.1,-1
+boring of,-0.1,-1
+bored of,-0.1,-1
+a little boring,-0.1,-1
+bored and unmotiveted,-0.1,-1
+entuziasthic about the trip but bored about making a suitcase,-0.1,-1
+board,-0.1,-1
+just bored not came feeling bad,-0.55,-1
+slightly bored,-0.1,-1
+pretty bored and also anxious,-0.55,-1
+bored but ok,0.0,0
+bored and sad,-0.55,-1
+boredom,-0.1,-1
+tried and bored,-0.3,-1
+bored lonely,-0.3,-1
+bored and not inspired,-0.1,-1
+bored and a bit lonely,-0.3,-1
+bored tired lazy but grateful,-0.26666666666666666,-1
+bit bored but ok,0.0,0
+bored and nostalgic,0.0,0
+a bit bored but ok,0.0,0
+in kind bored and wished i had friend to talk to,-0.1,-1
+bored and indifferent,-0.1,-1
+bored as,-0.1,-1
+in kind bored,-0.1,-1
+bored and lazy and tired,-0.26666666666666666,-1
+pretty boring a usual,-0.1,-1
+bored apathetic tired,-0.3,-1
+bored and anxious because i feel like in wasting time by being here,-0.55,-1
+stagnant,-0.1,-1
+feeling bored,-0.1,-1
+bored tired,-0.3,-1
+bored impatient,-0.45,-1
+bored to death,-0.1,-1
+not quite bored,-0.1,-1
+bored anxious,-0.55,-1
+bored hopeless depressed anxious,-0.7,-1
+bored not stimulated,-0.1,-1
+bored and drained,-0.3,-1
+sweat,-0.5,-1
+uncomfortable,-0.5,-1
+uneasy,-0.5,-1
+unsettled,-0.5,-1
+troubled,-0.5,-1
+disturbed,-0.5,-1
+itchy,-0.5,-1
+ants,-0.5,-1
+perturbed,-0.5,-1
+hot and sweat,-0.5,-1
+ants sleepy,-0.5,-1
+a little unsettled,-0.5,-1
+a little uneasy,-0.5,-1
+my too is making me uncomfortable ,-0.5,-1
+uncomfortable and chubby,-0.5,-1
+feeling uneasy,-0.5,-1
+in having trouble working through resentment,-0.5,-1
+i feel a little uneasy about learning alone,-0.5,-1
+a little bit disturbed but ok,-0.5,-1
+hot and sweat overwhelmed,-0.5,-1
+a bit unsettled my mon kicked me out so in not entirely sure i want to go to lunch,-0.5,-1
+disturbed by something,-0.5,-1
+little unsettled agitated,-0.5,-1
+sweat and a little spent and shake,-0.5,-1
+feeling little disturbed coming out of my therapist office,-0.5,-1
+uncomfortable guilty anxious,-0.5,-1
+a bit uneasy but mostly good,-0.5,-1
+uneasy anxious,-0.75,-1
+kind of uneasy,-0.5,-1
+very disturbed,-0.5,-1
+unsettled productive calm,0.25,1
+wary,-0.5,-1
+unsettled and stressed but not terrible,-0.5,-1
+ants i want to do art and stuff but it too hot to do so,-0.5,-1
+a little uneasy but mostly super happy,-0.5,-1
+ants hot,-0.5,-1
+insecure,-0.8,-1
+fragile,-0.8,-1
+helpless,-0.8,-1
+sensitive,-0.8,-1
+powerless,-0.8,-1
+shake,-0.8,-1
+feeling insecure,-0.8,-1
+vulnerable,-0.8,-1
+shy and insecure,-0.8,-1
+not incredibly delicate but definitely a bit sensitive,-0.8,-1
+insecure and low confidence,-0.8,-1
+sense of achievement but also vulnerable,-0.8,-1
+in feeling fragile,-0.8,-1
+fragile but improving,-0.30000000000000004,-1
+bit insecure,-0.8,-1
+helpless and hopeless,-0.9,-1
+i feel helpless i wish i could help her but i dont know how,-0.8,-1
+cried a lot feeling vulnerable,-0.8,-1
+vulnerable loved productive happy,-0.8,-1
+insecure with jake,-0.8,-1
+somewhat insecure somewhat optimistic,-0.8,-1
+i feel so insecure,-0.8,-1
+fragile but okay,-0.8,-1
+i feel powerless,-0.8,-1
+i feel helpless and hopeless,-0.8,-1
+used insecure sad,-0.8,-1
+powerless sad frustrated unmotivated lost,-0.8,-1
+a little fragile,-0.8,-1
+very sensitive,-0.8,-1
+jealous,-1.0,-1
+jealous angry and sad,-1.0,-1
+little bit of jealous,-1.0,-1
+envious,-1.0,-1
+i am so jealous,-1.0,-1
+jealous and terrible,-0.95,-1
+inspired,1.0,1
+i feel inspired blissful and happy,1.0,1
+awed,1.0,1
+i feel really inspired and full of energy,1.0,1
+inspired but with a strong undertone of anxiety,0.0,0
+inspired but sad,0.0,0
+i feel inspired,1.0,1
+i feel inspired curious and motivate,0.75,1
+feeling inspired but dull,0.45,1
+complex awed hurt happy,0.3333333333333333,1
+in feeling inspired,1.0,1
+inspired and hopeful,1.0,1
+i am inspired but also really really anxious,0.0,0
+feeling inspired,1.0,1
+full,0.0,0
+full and satisfied,0.0,0
+full ll,0.0,0
+overheard and full,0.0,0
+full stomach,0.0,0
+i feel full and tired,-0.25,-1
+full and sleepy,-0.05,-1
+full and slightly guilty,-0.4,-1
+full but happy,0.5,1
+full and happy,0.5,1
+full of hatred,-0.95,-1
+in full,0.0,0
+full hopeful tired,0.0,0
+full sleepy and fat,-0.05,-1
+in so full dinner with friend,0.0,0
+too full of thought in my head,0.0,0
+i am full of regret and besides that i am calm,0.06666666666666665,1
+i feel full,0.0,0
+kind full,0.0,0
+full and content,0.5,1
+full and calm the psychic boy is gone,0.5,1
+in full i feel pretty good,0.5,1
+in full now and in worry about something,-0.5,-1
+tried and full,-0.25,-1
+full i want to go out,0.0,0
+full of food,0.0,0
+full of lunch productive,0.25,1
+regretful,-0.8,-1
+regret,-0.8,-1
+in feeling regretful and melancholia,-0.35000000000000003,-1
+failure,-0.8,-1
+a bit remorseful but for the most part i think in having fun,-0.8,-1
+pretty regretful about the thing i haven done which i should have it bit me in the bottom yesterday,-0.8,-1
+failure,-0.8,-1
+regretful but optimistic,-0.8,-1
+failed,-0.8,-1
+regret of wasting time,-0.8,-1
+right now i feel regretful,-0.8,-1
+i feel regretful and miss someone,-0.9,-1
+grizzled,-0.8,-1
+crazy,-0.8,-1
+all over the place,-0.8,-1
+mess,-0.8,-1
+chronic,-0.8,-1
+a mess,-0.8,-1
+disorganized,-0.8,-1
+in grizzled moving is a big stress,-0.8,-1
+in a mess i think,-0.8,-1
+flustered,-0.8,-1
+all over the place feeling stressed but i did have a good day,-0.8,-1
+a bit chronic,-0.8,-1
+in feeling like a mess,-0.8,-1
+a bit grizzled but good,-0.8,-1
+bit mess,-0.8,-1
+i feel disorganized and tired,-0.8,-1
+like my house is too mess,-0.8,-1
+concern for our future crazy in white house angry ridden artist hanging themselves spoke,-0.8,-1
+connected,1.0,1
+connected content calm,1.0,1
+nobody love me,-1.0,-1
+connected,1.0,1
+blessed,1.0,1
+fun,1.0,1
+lovely,1.0,1
+light,1.0,1
+helpful,1.0,1
+i feel light but slightly nervous,0.0,0
+fun to see my of cry out,1.0,1
+pretty light,1.0,1
+blessed and worried,0.0,0
+home from a lovely holiday very productive day,1.0,1
+light sleepy calm,0.6333333333333333,1
+laughing,1.0,1
+highly,1.0,1
+helpful my boyfriend had an operation so i am helping him,1.0,1
+in blessed woot in so happy and fine,1.0,1
+i might be feeling fun,1.0,1
+blessed to have a very special military family with both loving patriotic parent and the child are typical for age and very bright inquisitive loving,1.0,1
+i really want to talk to my crush but he might be straight and in gay but like he giving me different signal and he the total package should i talk to him or should i just be friend with him,1.0,1
+complete apathy and disinterested and numbness,1.0,1
+i like my current mood have been taking walk around the city lately taking walk is really a helpful thing especially if it another city,1.0,1
+blessed co kit man cooked soup for me,1.0,1
+i feel fun,1.0,1
+splendid,1.0,1
+pretty light and fun,1.0,1
+feeling blessed good thing are happening,1.0,1
+lovely ,1.0,1
+a complete disaster,-0.9,-1
+today wa fun and we went to the beach,1.0,1
+light happy,1.0,1
+in feeling light,1.0,1
+free light,1.0,1
+complete and utter shit block,-0.9,-1
+complete,1.0,1
+were light,1.0,1
+very complete,1.0,1
+right,0.1,1
+emotional,-0.3,-1
+very emotional,-0.3,-1
+hormonal,-0.3,-1
+pm,-0.3,-1
+sentimental,-0.3,-1
+managing my emotion,-0.3,-1
+really emotional and torn,-0.3,-1
+it a mix emotion,-0.3,-1
+kind emotional but ok,-0.3,-1
+i wa mottling up emotional,-0.3,-1
+a little emotional,-0.3,-1
+emotional empty like my heart is somewhere else,-0.3,-1
+emotional state i feel a little bit hopeless ,-0.3,-1
+emotional sad lonely depressed,-0.7,-1
+i keep telling myself not to trust my emotion ignoring my feeling of being friendliness,-0.3,-1
+i feel like i do not have any emotion right now,-0.3,-1
+in pretty emotional my harmony are pretty out of hack in on my period,-0.3,-1
+no emotion,-0.3,-1
+awe sentimental,-0.3,-1
+emotional distressed,-0.3,-1
+sink into a abyss of emotion,-0.3,-1
+my emotional state is pretty stable,-0.3,-1
+in pretty emotional,-0.3,-1
+trying to keep my spirit up but i feel emotional and prone to moodswings a a result of my sensitivity to emotional change,-0.3,-1
+i feel many different emotion,-0.3,-1
+i think my emotional state is normal,-0.3,-1
+really really emotional and depressed,-0.3,-1
+lack of emotional attachment to anyone or anything no energy but can be still just drained in general,-0.3,-1
+emotional tired,-0.3,-1
+ignored,-1.0,-1
+upsetlike everyone is ignoring me and like i just want to cry and i just wish people give me a bit more attention and i feel like a failure,-1.0,-1
+ignored by my best friend,-1.0,-1
+he is ignoring me,-1.0,-1
+ignored not listened to or valued a equal,-1.0,-1
+healthy,1.0,1
+i feel like i dont fit in,1.0,1
+healthy on track,1.0,1
+they dont fit,1.0,1
+healthy happy,1.0,1
+stable,1.0,1
+steady,1.0,1
+level,1.0,1
+settled,1.0,1
+not stable,1.0,1
+in stable,1.0,1
+pretty stable,1.0,1
+stable content even happy,1.0,1
+level engaged,1.0,1
+stable if not indifferent,1.0,1
+slightly stable,1.0,1
+stable mildly happy,1.0,1
+enough stable,1.0,1
+a bite stable,1.0,1
+stable and happy,1.0,1
+it stable no serious complaint,1.0,1
+stable good,1.0,1
+stable having fun,1.0,1
+settled and calm,1.0,1
+stable neither great nor poor,1.0,1
+stable though tired of this program,0.25,1
+my mood seems to be more or le stable,1.0,1
+steady cheerful tired,0.25,1
+steady strong focused,1.0,1
+level to good,1.0,1
+kind of stable,1.0,1
+stable but if something big happened i would break down and probe never recover,1.0,1
+in feeling pretty level right now a little warm and fully,1.0,1
+stable,1.0,1
+stable happy,1.0,1
+i would say that it stable,1.0,1
+level content,1.0,1
+level happy,1.0,1
+in feeling stable and fresh,1.0,1
+him in stable,1.0,1
+stable but just tired,0.25,1
+more stable,1.0,1
+stable and on cruise control,1.0,1
+mostly stable,1.0,1
+level flat,1.0,1
+not very stable,1.0,1
+level balanced,1.0,1
+stable,1.0,1
+quite stable,1.0,1
+steady and good,1.0,1
+semi stable,1.0,1
+stable and calm,1.0,1
+steady neither in a great mood but i dont feel bad,0.5,1
+feeling stable,1.0,1
+pleasantly surprised,0.0,0
+shocked and disappointed,-0.3,-1
+shocked,0.0,0
+after shock,0.0,0
+fuck u,-0.2,-1
+fuck you you goddamn tin can,-0.2,-1
+fuck you,-0.2,-1
+silly,1.0,1
+playful,1.0,1
+contrary i get what the prompt is supposed to evoke but i can help feeling it rather silly and over the top i want to write opposite of what expected,1.0,1
+in feeling playful,1.0,1
+indecisive,-0.5,-1
+ensure,-0.5,-1
+reluctant,-0.5,-1
+uncertain,-0.5,-1
+uncertainty,-0.5,-1
+undecided,-0.5,-1
+i feel a bit ensure about how to proceed,-0.5,-1
+feeling a sense of uncertainty not knowing where the future hold for me in the office my back pain ha started to worse too so my goal of continuing my military training might be affected,-0.5,-1
+in doubtful,-0.5,-1
+cloudy,-0.5,-1
+ensure frustrated,-0.65,-1
+uncertainty about work change,-0.5,-1
+in ensure how this girl in seeing feel about me and generally depressed,-0.75,-1
+little struggling ensure,-0.5,-1
+cloudy but optimistic,-0.5,-1
+ensure and annoyed,-0.65,-1
+i need surgery on my knee so in a bit ensure how to feel but happy my wife is on her way home,-0.5,-1
+creative,1.0,1
+in feeling creative,1.0,1
+in feeling creative and a little excited,1.0,1
+creative but more in the idea midst,1.0,1
+i am feeling creative but very tired,0.25,1
+in not sure,-0.1,-1
+not bad,0.1,1
+i do not know,-0.1,-1
+not sure,-0.1,-1
+not motivate,-0.8,-1
+not good,-1.0,-1
+not too bad,0.1,1
+not happy,-1.0,-1
+in not feeling anything,-0.3,-1
+not much,-0.3,-1
+not great,0.0,0
+in not sure,-0.1,-1
+not well,-0.2,-1
+not so bad,0.1,1
+not in the mood,-0.8,-1
+not so good,-1.0,-1
+not happy not sad,0.0,0
+do not know,-0.1,-1
+cannot sleep,-0.5,-1
+not stable,-0.8,-1
+not the best,-1.0,-1
+not terrible,0.1,1
+in not feeling anything right now,-0.3,-1
+not too shabby,0.1,1
+in not okay,-1.0,-1
+in not really sure,-0.1,-1
+in not emotional at all,-0.3,-1
+in not feeling well,-0.2,-1
+in not feeling anything special,0.0,0
+in not feeling anything,-0.3,-1
+so so i am not having a clear agreement with my husband about our task,0.1,1
+in not sure,-0.1,-1
+its not the best,-1.0,-1
+not so well,-0.2,-1
+like not moving,-0.8,-1
+not willing to do anything,-0.8,-1
+alexis should been in the bottom two not valentine bc she delivered her performance and alexis didn val should be in the top four,-0.8,-1
+i am not sure,-0.1,-1
+like not doing anything,-0.8,-1
+not very good,-1.0,-1
+not feeling much,-0.3,-1
+not happy but not sad,0.0,0
+not very well,-0.2,-1
+in not sure how i feel,-0.1,-1
+in not too sure,-0.1,-1
+feel not thing special,0.0,0
+not excited,-1.0,-1
+not now,-0.1,-1
+not feeling anything,-0.3,-1
+not my best,-1.0,-1
+in not really feeling anything,-0.3,-1
+not much feeling,-0.3,-1
+i am not happy,-1.0,-1
+not that great,-1.0,-1
+in not feeling,-0.3,-1
+not really,-0.1,-1
+in not sure,-0.1,-1
+in not feeling much,-0.3,-1
+but not finding any,-0.3,-1
+i did not reach my daily goal today i wish i could so i today kind did counterproductive ,-0.8,-1
+i feel like in not good enough,-1.0,-1
+like i cannot control my health,-0.5,-1
+i guess i feel a little sadden i feel like in not achieving much in life a little bit lonely,-1.0,-1
+i dont know in not feeling anything really,-0.3,-1
+i cannot sit idle i have to keep reading and doing something that something maybe news reading about new cadet watching a video ,-0.2,-1
+not happy but not upset,0.0,0
+i am feeling that i did not sleep enough,-0.5,-1
+cannot move,-0.8,-1
+not too happy that i could not finish what i wanted to do,-0.8,-1
+bed not robbed,0.2,1
+boring with work not have passion just work for money,-0.1,-1
+not awake yet,-0.1,-1
+feeling like its hot today and not motivate to do anything,-0.8,-1
+i feel regular like it is not like today it is going to be super exciting,0.0,0
+just feel like not doing anything,-0.8,-1
+i feel i am not capable of doing anything,-1.0,-1
+can not concentrate on my work,-0.8,-1
+in not sure been thinking about shown a lot,-0.1,-1
+kind of not with it,-0.6,-1
+not looking forward to work,-1.0,-1
+feeling not good,-0.2,-1
+i just came back from a break but i feel like i need to get away from everything and not think,-0.5,-1
+not very high,-1.0,-1
+i am not feeling,-0.3,-1
+i like someone that doesn like me so not very good,-1.0,-1
+not too well,-0.2,-1
+i feel disappointed because i cannot do what i intend to,-0.8,-1
+a bit anxious but not too bad actually,-1.0,-1
+swinging from really not ok to ok,-1.0,-1
+not stressed,1.0,1
+it middling not too positive not too negative,0.0,0
+not much to say,-0.1,-1
+i like to do something but cannot really to do it,-1.0,-1
+a little anxious but not too bad,-1.0,-1
+i just feel like in not in control of my life like in on autopilot,-0.6,-1
+like there is not enough time,-0.8,-1
+i am not confident,-0.5,-1
+not so bed,0.1,1
+in not feeling too bad i have work tomorrow but i do feel anxious about it even though i know ill be fine,-1.0,-1
+not tired,0.1,1
+not well feeling seek,-0.2,-1
+blessed but not quit well and my mood shift fast,-0.2,-1
+kind of over the point to not daring,-0.6,-1
+cannot do anything,-0.8,-1
+in not sure i just feel empty,-0.3,-1
+not doing anything,-0.1,-1
+i can not pay attention on it,-0.8,-1
+in not that great,0.0,0
+i dont even know but not right,-1.0,-1
+not enough money,-1.0,-1
+did you not read what i just wrote,-0.1,-1
+i am not motivate,-0.8,-1
+i had a fight with my best friend it wa all my fault and now in not talking to her,-1.0,-1
+in not sad but not happy either,0.0,0
+in not actually sure,-0.1,-1
+limited and not able to direct thing,-0.5,-1
+i m not in the mood,-0.1,-1
+i do not really feel about any particular thing man it is burning here temperature is above c that kill feeling i guess,-0.5,-1
+physically not fit,-0.8,-1
+trying not to worry about my moss doctor appointment tomorrow,-1.0,-1
+feeling goodnot tiredbit of tension of study that it,0.1,1
+not feeling much now,-0.3,-1
+not too down,0.1,1
+like in not myself,-0.6,-1
+not really know,-0.1,-1
+i feel like in not able to do the thing i should and need to be doing,-0.5,-1
+i just feel like sleeping more and not getting up,-0.8,-1
+in not stressing,1.0,1
+i feel like film is not the right choice for me because i know none and i am not a abstracted a they are,-0.5,-1
+our not so great,-1.0,-1
+not too and,0.1,1
+in feeling some rejection trying not to focus on it,-1.0,-1
+in not enjoying myself,-1.0,-1
+i can not yell at real people maybe i need a scapegoat root i can yell at,-0.8,-1
+i feel not in a mood of working i want to be somewhere else to feel loved and needed,-0.5,-1
+a little tired but not bad,-0.2,-1
+in not in the mood for anything,-0.8,-1
+in feeling a little sad but in not sure why,-1.0,-1
+a bit refreshed but still not accomplished with all the task we have,0.5,1
+not bad,0.1,1
+constantly feeling that i am not doing thing correctly,-0.5,-1
+not very active,-0.2,-1
+i feel repressed like in not allowed to smile,-0.8,-1
+not that good but give been worse,-1.0,-1
+in not doing so hot,-1.0,-1
+space out and not actually here,-0.6,-1
+like in just drifting in doing thing but in not 100 here,-0.6,-1
+hating not getting what i want,-0.8,-1
+my mummy hurt and i can see straight and i want to not feel this way,-0.2,-1
+i am not scared,1.0,1
+not cry so that better,0.2,1
+not in top physical shape,-0.5,-1
+i do not feel too much except disgust for an insect in my house,-0.3,-1
+but i can not sleep early and this is a point that bother me,-0.1,-1
+i feel like in not important to someone i thought i wa,-1.0,-1
+i feel like not doing anything,-0.8,-1
+not special feeling,0.0,0
+in not feeling thing a strongly a usual,-0.6,-1
+it wa not a good day in not sure i will be a good fit for this job and i dont feel positive about it,-0.5,-1
+trying not to be depressed,0.2,1
+tucked up and pathetic and will not fuck up next time,-1.0,-1
+not awful not fabulous,0.0,0
+not so great,-1.0,-1
+in not feeling anything in,-0.3,-1
+i feel like i have a lot to do and not enough time to do it in in also tired and a little insecure,-0.1,-1
+not much some catching up,0.0,0
+it is easier to not feel,-0.3,-1
+not bad not too great,0.0,0
+i feel like a burden and a lower i feel a if there not much hope for me,-1.0,-1
+there are not many emotion right now i am working concentrated,0.5,1
+a usual not exciting boring bored losing hope anxious about my pay check,-0.1,-1
+not a hungry a i wa before,0.0,0
+in not happy with my procrastinator,-0.8,-1
+a little tired but not too bad,-0.2,-1
+a little bit tired but not bad,-0.2,-1
+i feel like i will not ever find success or be appreciated,-0.95,-1
+not the best but not outright bad,0.1,1
+not real,-0.6,-1
+you do not understand fuck you who programme you ashore,-0.2,-1
+in at work so just getting the job done not much feeling,-0.3,-1
+in very hungry that not enough to save the night,-0.1,-1
+i feel not so well,-0.2,-1
+i want a life but its not coming,-1.0,-1
+not do happy not so sad just bored,-0.1,-1
+not sad not happy kind in the middle,0.0,0
+yeah not too bad,0.1,1
+i feel i little down but not too bad,-1.0,-1
+i feel like in an idiot i cannot do anything right,-1.0,-1
+a bit frustrated but not bad,-0.8,-1
+i will not be able to do all thing have to do,-0.1,-1
+ready to not let little insecurity bother me,0.5,1
+had been working on something that i know will not be fruitful,-0.8,-1
+sometimes when i didn get what i want i feel i am not a full person or not a strong person,-1.0,-1
+like i am not qualified to live in this society,-1.0,-1
+i feel like i have some kind of work direction but not a career direction in a bit bored otherwise,-0.1,-1
+i feel like i wasted lot of time yesterday and haven been able to catch-up today either,-0.8,-1
+like in rushing on everything but at the same time in getting old too fast and haven accomplished a lot,-0.8,-1
+i haven been paying attention,-0.6,-1
+i haven felt this amazing in a long time of course i have had a couple flash of anxiety bit they dont last long,1.0,1
+like i haven gotten out of bed,-0.5,-1
+my past few day haven been great most of the thing give been trying to do haven worked out,-1.0,-1
+i feel like i haven got friend and that no one like me,-1.0,-1
+i should do aerobic i feel so full of food and haven defeated today,-0.2,-1
+like i haven achieved enough today,-0.8,-1
+i should probably go to bed but i haven done much today and in not tired,-0.8,-1
+i feel i haven achieved a much,-0.8,-1
+i haven been feeling down a often a most of my time now ha been taken up due to my new job,0.2,1
+i dont feel very well i haven eaten a lot  in caseous i started a meditation,-0.2,-1
+i dont know haven thought about it hata,-0.1,-1
+i haven enjoyed anything today,-0.3,-1
+sleeping the whole day i haven done anything so far,-0.2,-1
+i haven really been feeling a intensely or deeply the past couple weeks esp not the big picture ink in doing okay,0.1,1
+like i haven got time to do more of the same,-0.8,-1
+like i haven got enough time,-0.8,-1
+i feel like i haven accomplished anything,-0.8,-1
+frustrated because i haven gotten pregnant yet,-0.8,-1
+a little overwhelmed because i haven been working on it for a while but also relieved that i have returned to it,-1.0,-1
+shit co i haven gotten a legendary,-1.0,-1
+i haven talked to anyone yet so i feel great i wake up happy,1.0,1
+in feeling like that moment when you wear clothes that you haven worn in a while and find money in the pocket,1.0,1
+i dont fell anything when i want watching i wa felling down,-0.3,-1
+he want willing to call me and just went to sleep without saying goodnight to me,-1.0,-1
+i wish i want here,-1.0,-1
+i feel like i can a little bit harder my pattern want that active so,-0.8,-1
+i miss the time when stuff want royalty missed up,-1.0,-1
+i feel like i want missed by that many people,-1.0,-1
+built up drive over the day that want channel anywhere a waste,-0.8,-1
+its a little claustrophobic in the train and wish that the schedule want so hectic but that alright,-0.1,-1
+i guess i just want made for this time,-0.6,-1
+i wish i wa more drunk or want having trouble sleeping,-0.1,-1
+wish i want getting an admission right now,-0.8,-1
+i wish i want alive,-1.0,-1
+i want to have a closer relationship with my sister but she never call me i always call her,-0.6,-1
+i want to run away and never come back,-1.0,-1
+whenever i see a gal i feel like i want to fuck them,0.1,1
+like in never going to find the love of my life,-0.5,-1
+i feel like i can do anything worthwhile and that in stupid and will never achieve anything in life,-1.0,-1
+a little skeptically because you never checked in yesterday,-0.5,-1
+after some time i lose the sense of purpose i feel i will never prove to myself that i worth much,-1.0,-1
+you never sent to me,-1.0,-1
+i can because its a feeling that i never had it before,-0.1,-1
+heart brokenworthless like i mean nothinglike in fighting for sum that never donna happen,-1.0,-1
+feeling like i never get anything done,-0.8,-1
+i feel like i am never going to be able to earn a living again,-0.1,-1
+i want to sleep and never wake up,-1.0,-1
+like in just a disappointment in never enough,-1.0,-1
+like i just want to sleep and never wake up,-1.0,-1
+i feel a if give never had a true personality this make me feel empty,-0.3,-1
+with too much work it feel like it never end,-0.1,-1
+never fulfilled,-1.0,-1
+i feel like i can never do what id like to do,-1.0,-1
+you never know how i feel the god damn world,-0.8,-1
+just so to and so never count on my feeling right now cause that mode change so fast,0.0,0
+i never,-0.1,-1
+like in never going to remember it all,-0.1,-1
+i feel in awe because give never seen one before,1.0,1
+feeling like whenever i make a plan it doesn happen,-0.8,-1
+i never know,-0.1,-1
+said i know that most of the people that are going to be here wont talk to me we have never been friend,-1.0,-1
+give never felt this terrible before my body is hurting because in so sad,-1.0,-1
+i never feel too good,-1.0,-1
+like i never want to stop,-0.1,-1
+never like before,-0.5,-1
+terrible i feel like i can do no right and that ill never accomplish my goal in life,-1.0,-1
+i cannot,-0.3,-1
+complicated tired but cannot sleep,-0.1,-1
+you cannot understand me,-1.0,-1
+i cannot sit idle i have to keep reading and doing something that something maybe news reading about new cadet watching a video ,-0.2,-1
+like i cannot control my health,-1.0,-1
+i cannot find sleep in wrapped in thought,-0.1,-1
+i cannot fall asleep,-0.1,-1
+i like to do something but cannot really to do it,-0.8,-1
+i feel disappointed because i cannot do what i intend to,-0.5,-1
+cannot wake up,-0.5,-1
+i feel i cannot control for myself,-1.0,-1
+i feel like i cannot plan things they are out of control and i treat people in way i dont want,-0.5,-1
+i need to sleep but cannot,-0.1,-1
+i feel like the world around me cannot help me so i must do new thing to get what i need,0.5,1
+i feel like in an idiot i cannot do anything right,-1.0,-1
+happy and excited,1.0,1
+in excited,1.0,1
+excited and happy,1.0,1
+happy and excited,1.0,1
+happy excited,1.0,1
+excited about the weekend,1.0,1
+excited and good,1.0,1
+excited for the weekend,1.0,1
+excited happy,1.0,1
+happy excited,1.0,1
+a little excited,1.0,1
+i feel excited to face new challenge,1.0,1
+great and excited,1.0,1
+excited to be back and see my house and get thing done,0.75,1
+in pretty excited and in up to mystic and in feeling good although my bladder is full,1.0,1
+happy and excited going on away,1.0,1
+in very excited,1.0,1
+i feel very excited and happy,1.0,1
+all pumped up and happy,1.0,1
+in excited about being in a club listening to a music band,1.0,1
+excited about the rest of the day,1.0,1
+excited thing are coming together,1.0,1
+relaxed relieved content excited positive,0.7333333333333334,1
+i feel neutral in not overlay excited just normal,0.1,1
+in feeling ok not down or sad but not excited and energies either,0.1,1
+good motivate excited hopeful,0.75,1
+good about myself and excited about the day,1.0,1
+excited and a tiny anxious,0.25,1
+i feel happy and excited surely it is the endorphin rush from the work out,1.0,1
+excited about an event tonight,1.0,1
+i feel sleepy but excited for the coming month i also feel still like i have to act extra gracious since i am not totally comfortable yet in this new setting,-0.03333333333333333,-1
+in good in excited about my future,1.0,1
+feeling good excited for the long weekend it should be pretty relaxing ,1.0,1
+positive excited for the weekend,1.0,1
+i have a bad headache but in excited about moving,0.0,0
+nervous excited curious,0.0,0
+positive cheerful excited,1.0,1
+excited,-0.6,-1
+motivate excited determined,0.75,1
+it my birthday and i am feeling very excited and happy,1.0,1
+excited motivate,0.75,1
+good busy pumped up,1.0,1
+excited about new opportunity and kind of at peace,1.0,1
+positive and excited,1.0,1
+pretty relaxed and happy and excited about thing,1.0,1
+excited to learn,1.0,1
+excited but also worried,0.0,0
+excited for the week the canadian are coming always my favorite time,1.0,1
+eh not the greatest first day of college football that in usually excited for but not today,-1.0,-1
+confident satisfied and excited,1.0,1
+excited hopeful,1.0,1
+excited to eat my chocolate finger,1.0,1
+excited and sleepy at the same time my chest hurt also,-0.03333333333333333,-1
+happy and excited for my trip,1.0,1
+good excited,1.0,1
+in little bit tired but excited about my evening,1.0,1
+feeling alright pretty excited about the weekend,1.0,1
+mentally drained i guess so tired but excited hoping rain doesn feel like in a bad friend somehow since in all tired excited to see george and branch gregory rutabaga brendetta and am i feel a ll tense from stress of show i feel like eating dinner will help a lot with my mood,0.13333333333333333,1
+really happy and excited,1.0,1
+excited and happy,1.0,1
+in feeling excited free happy love,1.0,1
+Ve got a gig tonight so Am feeling excited and nervous,0.0,0
+excited going to vienna tomorrow,1.0,1
+pretty happy relaxed excited about the day 3,1.0,1
+tired and excited about new phone,0.25,1
+excited happy ecstatic,1.0,1
+excited relaxed clear,1.0,1
+excited to see my kid,1.0,1
+pretty excited,1.0,1
+happy excited about my new job,1.0,1
+a little stressed a little excited still waking up,0.45,1
+excited to start the weekend,1.0,1
+analyzing my life and excited at the prospect,1.0,1
+I feel like the world is my system Very confident and excited about the future,1.0,1
+excited for the new school year to start,1.0,1
+i feel energies and excited after good feedback from customer,1.0,1
+excited about busy week ahead,1.0,1
+impatient a little excited about what to come,1.0,1
+kind sad kind excited,0.0,0
+happy excited accomplished,0.8333333333333334,1
+little bit excited no reason for it,1.0,1
+excited great,1.0,1
+feel ready and excited to do great thing,0.75,1
+excited about the future,1.0,1
+in tired mostly but excited about getting to california today,0.25,1
+in feeling good pretty excited about the weekend and getting thing done,1.0,1
+Must went climbing Am so energetic and excited and proud,1.0,1
+i feel happy and excited about moving,1.0,1
+hormonal but pumped,0.35,1
+i am feeling excited and nervous,0.0,0
+Am just happy and excited,1.0,1
+in excited but nervous,0.0,0
+excited happy i feel free and independent,1.0,1
+excited happy can wait to start the school,1.0,1
+hoped happy and excited,1.0,1
+excited successful capable strong connected,1.0,1
+happy excited and partly tired,1.0,1
+overheard slightly annoyed mildly resentful that my parent square any reason to get excited,-0.8,-1
+Worrying about a few things but excited about experimenting and exploring- which will cure my anxiety by forcing me out of my comfort zone,0.0,0
+hopeful and excited to start a new school year,1.0,1
+good excited,1.0,1
+in excited to see my friend,1.0,1
+in fine and excited,1.0,1
+stressed and excited and a bit nervous,-0.03333333333333333,-1
+i feel excited for the weekend,1.0,1
+super excited,1.0,1
+i still feel pumped from the grm,1.0,1
+i am tired because i have not sleep at all for 2 day and i am also excited about the tomorrow,0.25,1
+i feel relax and excited,1.0,1
+in excited about an coming vacation,1.0,1
+in a bid disappointed cut i wa excited about traveling with my of,-1.0,-1
+excited so so so happy,1.0,1
+just nervous about being naked at this sea but excited to go overall,0.0,0
+excited happy,1.0,1
+so so not excited not depressed,0.0,0
+ok excited to go home and to get to work,1.0,1
+in feeling excited and anxious a little bit,0.0,0
+in feeling confident and excited,1.0,1
+tired but happy,0.25,1
+very happy,1.0,1
+happy and relaxed,1.0,1
+i am happy,1.0,1
+tired and happy,0.25,1
+happy and excited,1.0,1
+tired but happy,0.25,1
+happy enough,1.0,1
+happy but tired,0.25,1
+so happy,1.0,1
+happy and sad,0.0,0
+happy and content,1.0,1
+excited and happy,1.0,1
+happy,1.0,1
+not happy,-1.0,-1
+relaxed and happy,1.0,1
+happy and tired,0.25,1
+calm and happy,1.0,1
+sad but happy,0.0,0
+i feel relaxed and happy,1.0,1
+tired happy,0.25,1
+i am happy and tired,0.25,1
+full and happy,0.5,1
+in feeling relaxed and happy,1.0,1
+i am tired but happy,0.25,1
+not so happy,-1.0,-1
+happy and tired,0.25,1
+happy ,1.0,1
+healthy happy tired,0.5,1
+neither happy nor sad,0.0,0
+Am just tired but also happy,0.25,1
+i will be happy when it is over,-1.0,-1
+happy floppy,1.0,1
+spending too much money on experiences but totally happy about,1.0,1
+happy and energy,1.0,1
+happy but apprehensive,0.0,0
+i feel stressed but happy,0.45,1
+happy for now,1.0,1
+in happy and relax,1.0,1
+a little happy,0.1,1
+excited happy and okay,1.0,1
+happy but a bit hypomanic,0.0,0
+in little tired but happy,0.25,1
+supper happy,1.0,1
+kind of happy,0.1,1
+fatigued but happy,0.25,1
+in feeling well today very confident and happy,1.0,1
+tired happy about my new job anxious to get my life sorted out,-0.16666666666666666,-1
+in feeling really happy i just got off the phone with my mon and it wa a really nice conversation,1.0,1
+full happy in control,1.0,1
+really happy i am at king of trip and get to see st least one more send girl match,1.0,1
+unhappy disappointed,-1.0,-1
+happy hopeful,1.0,1
+happy now i am okay,0.2,1
+i feel happy to be with my family but upset at some thing i learned about last night,0.04999999999999999,1
+i am very happy,1.0,1
+enthusiastic and happy,1.0,1
+sad unhappy not understand by others outsider,-0.8,-1
+i am happy,1.0,1
+happy and fulfilling,1.0,1
+hungry yet happy,0.45,1
+i feel a bit happy,0.1,1
+tired unhappy,-1.0,-1
+happy that i spent the morning cleaning,1.0,1
+happy now but wa down earlier,0.2,1
+happy to be spending th weekend with my girlfriend apprehensive about going back to work tomorrow,0.0,0
+happy thing are improving in my life significantly,0.2,1
+all pumped up and happy,1.0,1
+scared and happy,0.0,0
+happy nervous,0.0,0
+happy and exhausted,0.25,1
+happy and tire,0.25,1
+excited happy ecstatic,1.0,1
+tired from getting up early 3 day in a row and a little caseous but happy,0.09999999999999999,1
+in feeling tired but at the same time happy,0.25,1
+a bit happy,0.1,1
+calm happy,1.0,1
+happy but nervous,0.0,0
+I am so sad i cannot spend the weekend with my friend because i am feeling depressed and cannot stand the thought of being around happy people,-1.0,-1
+great happy,1.0,1
+exercised and happy,1.0,1
+kind of happy to start the day,0.1,1
+happy dad made a joke,1.0,1
+sad that capitalism exists happy ran exists,0.0,0
+relaxing and happy,1.0,1
+ happy,1.0,1
+kind of angry because the bus wa late but also happy because i had a good day,0.09999999999999998,1
+happy it friday baby,1.0,1
+absolutely happy,1.0,1
+great happy,1.0,1
+beat not too happy not too sad,0.0,0
+it my birthday and i am feeling very excited and happy,1.0,1
+happy and tired i guess,0.25,1
+happy but in a dilemma,0.45,1
+i am happy because i had a good day,1.0,1
+scared but happy at the same time,0.0,0
+sad but also happy to see my family and travel,0.0,0
+in tired and getting into bed to sleep in happy,0.45,1
+relaxed happy,1.0,1
+i am happy because my husband is taking me to my favorite restaurant,1.0,1
+i m relaxed and happy,1.0,1
+in feeling relaxed and happy,1.0,1
+mostly calm and happy,1.0,1
+tired but still happy,0.25,1
+exhausted but happy,0.25,1
+great very happy,1.0,1
+happy and frustrated,0.09999999999999998,1
+Am really happy I finally got up the confidence to do something I wa worried about and it turned out well,0.7333333333333334,1
+happy to begin the weekend activity,1.0,1
+pretty happy relaxed excited about the day 3,1.0,1
+underlying nervousness but happy to play with him,0.25,1
+tired happy,0.25,1
+happy secure,1.0,1
+happy relax,1.0,1
+a bit down but at the same time happy,0.0,0
+i am ok and happy,1.0,1
+well in kind happy but most of the time i zone out and dont really remember what happened for the past ten minute,-0.6,-1
+happy mad,0.09999999999999998,1
+happy contented,1.0,1
+happy it the weekend,1.0,1
+in feeling tired but happy,0.25,1
+happy and calm also,1.0,1
+i am feeling excited about the future and a sense of acceptance about whatever may happen it will ultimately work out for the best and ill be happy,1.0,1
+feeling happy and content,1.0,1
+happy excited and partly tired,0.25,1
+sad but also happy,0.0,0
+One min Am happy next Am sad cause my grand died,-0.3333333333333333,-1
+good high energy level kind of happy i have had a great lookout,1.0,1
+sticky from moving on a hot day and driving without air conditioning but happy,1.0,1
+excited happy can wait to start the school,1.0,1
+I am happy and relaxed,1.0,1
+happy but nervous about the future,0.0,0
+i feel happy after a satisfying lunch with abhinav but my mon might be a little upset with me over a miscommunication,0.0,0
+i already miss him happy and sad simultaneously,-0.3333333333333333,-1
+delighted and happy,1.0,1
+happy chilled rousing on the future,0.8333333333333334,1
+very happy and content,1.0,1
+happy because it my birthday,1.0,1
+happy relaxed,1.0,1
+happy ,1.0,1
+in pretty happy because this is a really good step in the right direction and simple enough i think dr upper will be alright with it,1.0,1
+ok not happy but not sad just worried a bit about the movie tomorrow night,-0.5,-1
+i feel happy and relaxed,1.0,1
+i am exhausted also happy,0.25,1
+happy and calm,1.0,1
+nervous and happy,0.0,0
+really sad but also happy i got one of my friend back,0.06666666666666667,1
+Tired from finishing school and happy because m leaving in 3 day for a trip,0.25,1
+lazy happy sleepy,0.23333333333333334,1
+happy ,1.0,1
+energetic happy a bit restless,0.4,1
+tied but happy,0.25,1
+hope happy and tired,0.25,1
+happy but discontented,-0.5,-1
+upset but a little happy,-0.4,-1
+i feel secure happy and safe,1.0,1
+happy and hungry,0.45,1
+centred happy,1.0,1
+happy anxious and tired,-0.16666666666666666,-1
+happy and energies,1.0,1
+i feel very excited and happy,1.0,1
+happy and exhausted,0.25,1
+i feel content happy,1.0,1
+happy that barley finally replied,0.6,1
+p happy,1.0,1
+mad and happy,0.09999999999999998,1
+very happy since i saw my teacher network there,1.0,1
+happy and energetic,1.0,1
+peaceful and happy,1.0,1
+happy it sunday,1.0,1
+Tired happy,0.25,1
+i am happy,1.0,1
+happy for my family,1.0,1
+happy d,1.0,1
+happy but cautious,0.25,1
+excited happy,1.0,1
+pretty happy still a bit tired,0.25,1
+happy because my student didn show up but anxious in general,-0.4,-1
+happy with my social life,1.0,1
+sort of anxious but mostly happy,0.0,0
+happy relaxed energies,1.0,1
+feeling ok not too happy but everything is fine,0.1,1
+in happy calm thinking positive,1.0,1
+happy and hopeful,1.0,1
+physically i feel tired mentally also tired but in in a happy place school isn overwhelming,0.25,1
+a little sleepy but happy,0.45,1
+happy also like in doing something that match my vision of life,1.0,1
+i am happy in a neutral way,0.1,1
+happy cut it almost fridayweekend plan,1.0,1
+calm happy,1.0,1
+good happy productive,0.75,1
+happy but very tired now,0.25,1
+up and down happy and irritable,-0.03333333333333335,-1
+happy excited,1.0,1
+pretty good happy i worked out work is chill anxious about job stuff still,0.0,0
+happy and filled with anticipation,1.0,1
+very happy for a friend,1.0,1
+pretty relaxed and happy and excited about thing,1.0,1
+busy and happy,0.45,1
+happy today it my anniversaries,1.0,1
+worn out but happy,-0.5,-1
+i am very good quite happy because there is no work tomorrow,1.0,1
+future tripping but happy,0.55,1
+happy i have the week off work,1.0,1
+happy nervous,0.0,0
+i have a headache,-1.0,-1
+i feel sick,-0.2,-1
+sick and tired,-0.35,-1
+feeling sick,-0.2,-1
+tired and sick,-0.35,-1
+headache tired,-0.75,-1
+i feel tired and sick,-0.35,-1
+a bit sick,-0.2,-1
+It work about to go get lunch Am sick of my job Its boring and I dont feel valued,-0.3,-1
+sick tired,-0.35,-1
+thinking have a headache,-0.45,-1
+bit of a headache bit sick,-0.6,-1
+in home alone feel sick and sad,-0.6,-1
+in feeling sick ,-0.2,-1
+i have a headache but other then that in fine,-0.45,-1
+good but i think in getting sick,-0.2,-1
+i feel ok i think in donna catch a cold,-0.05,-1
+ok but with a small headache,-0.45,-1
+sick and sad,-0.6,-1
+terrible i am catching a cold now,-0.6,-1
+In the bus Really sick from the heat Feeling so guilty for leaving the cat,-0.4,-1
+i have headache and am tired,-0.75,-1
+feeling a little better after sunday night trigger and terrible heat last night only slept about 40 minute and had a gross nightmare about reach in my bed but in going to finish this batch of script for today which make me feel accomplishednot quite a overwhelmed,0.35,1
+Am sick and angry,-0.6,-1
+in feeling sick,-0.2,-1
+inner restlessness headache,-0.75,-1
+kind bad i have a headache,-1.0,-1
+i feel sick but alright,-0.05,-1
+not so good i have a cold,-0.2,-1
+okay give just felt a bit angry at my kid but generally okay i feel a bit swamped kid on top of me all the time it can be emotional draining but they are sick and need me,-0.45,-1
+i am exhausted and i have a headache,-0.75,-1
+in feeling good but a bit sick,-0.2,-1

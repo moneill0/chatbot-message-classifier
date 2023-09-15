@@ -1,0 +1,5 @@
+Classifiers,F1 Scores
+SGD,0.85
+Multinomial Naive Bayes,0.8181818181818182
+Gradient Boosting Classifier,0.8352272727272727
+Decision Tree,0.8136363636363636
