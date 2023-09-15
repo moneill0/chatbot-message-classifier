@@ -2,12 +2,9 @@
 This is my submission for the take-home test in the interview process for the ML Engineer role at Woebot Health. I built a classifier that can output the empathy for each message in the Woebot message dataset, and will give a brief synopsis of my approach here.
 
 ### Usage Intructions
-I provided my submission as both a `.zip` file and in Google Colab. Both should run the same, and I included instructions for both below. If you run into any trouble, please feel free to email me at meoneill118@gmail.com. In any case, run the following command to install the dependencies:
+I provided my submission as both a `.zip` folder and a GitHub repo. Please download and unzip the folder or clone the repo, and run the following command in the home directory to install the dependencies:
 
 `pip install -r requirements.txt`
-
-#### Google Colab
-**** revisit after moving to Colab
 
 #### Zip file
 If you choose to download the `.zip` file, unzip this and navigate to the project's home directory. For ease of use, I wrote a shell script called `run_classifier.sh` to run through all the steps chronologically. If you wish to run an individual step, you can copy and paste that step from this script to your command line.
@@ -17,6 +14,8 @@ To execute this script on Mac OS or Linux, run `chmod +x run_classifier.sh` once
 
 ##### Windows
 If running on a Windows command line, this script can be executed by running `bash run_classifier.sh`.
+
+If you run into any trouble or would like access to the code in a different format, please feel free to email me at meoneill118@gmail.com.
 
 ### Approach
 

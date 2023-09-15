@@ -10,28 +10,6 @@ from pathlib import Path
 import nltk
 nltk.download("wordnet")  # TO DO: write a workaround
 
-# TO DO
-
-# Must do:
-# move to google colab
-# requirements file
-# documentation
-
-# Would be nice:
-# try another model
-# visualize results
-# handle "good"
-
-
-# If I had more time:
-# take num_seen column into account
-# autodocs with Sphinx
-# ignore less important rows (flagging with ignore column)
-# Deal with warnings in SVC
-# write workaround for nltk.download (try catch exception)
-# Experiment with resampling techniques (random over/under sampling)
-# Deep learning models (LSTMs?)
-
 # Find the polarity associated with the given empathy
 def get_polarity(empathy, empathies_df):
     empathy_index = empathies_df[empathies_df["empathy"]
