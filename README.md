@@ -6,8 +6,7 @@ I provided my submission as both a `.zip` folder and a GitHub repo. Please downl
 
 `pip install -r requirements.txt`
 
-#### Zip file
-If you choose to download the `.zip` file, unzip this and navigate to the project's home directory. For ease of use, I wrote a shell script called `run_classifier.sh` to run through all the steps chronologically. If you wish to run an individual step, you can copy and paste that step from this script to your command line.
+For ease of use, I wrote a shell script called `run_classifier.sh` to run through all the steps chronologically. If you wish to run an individual step, you can copy and paste that step from this script to your command line.
 
 ##### Mac OS / Linux
 To execute this script on Mac OS or Linux, run `chmod +x run_classifier.sh` once in this project's home directory to set the execute permissions. Then, it can be executed by running `./run_classifier.sh` or `sh run_classifier.sh` in this project's home directory.
