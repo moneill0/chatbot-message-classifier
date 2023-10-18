@@ -1,5 +1,4 @@
-## ML Engineer Project: Woebot Message Data Exploration
-This is my submission for the take-home test in the interview process for the ML Engineer role at Woebot Health. I built a classifier that can output the empathy for each message in the Woebot message dataset, and will give a brief synopsis of my approach here.
+## Chatbot Message Classification
 
 ### Usage Intructions
 I provided my submission as both a `.zip` folder and a GitHub repo. Please download and unzip the folder or clone the repo, and run the following command in the home directory to install the dependencies:
