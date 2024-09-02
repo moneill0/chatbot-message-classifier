@@ -1,4 +1,4 @@
-## ML Engineer Project: Woebot Message Data Exploration
+## Project Guidelines
 
 This repo contains 2 data files: `labeled_messages.csv` and `empathies.csv`. The `labeled_messages.csv` file has 3500 user messages, and empathy labels for each one (which correspond to the empathy responses that Woebot gives to that message). There are 62 empathy labels. The other CSV is of the empathies and their polarities, from -1 to 1. 
 
