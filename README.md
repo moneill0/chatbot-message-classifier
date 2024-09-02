@@ -1,7 +1,7 @@
 ## Chatbot Message Classification
 
 ### Usage Intructions
-I provided my submission as both a `.zip` folder and a GitHub repo. Please download and unzip the folder or clone the repo, and run the following command in the home directory to install the dependencies:
+Please run the following command in the home directory to install the dependencies:
 
 `pip install -r requirements.txt`
 
@@ -12,8 +12,6 @@ To execute this script on Mac OS or Linux, run `chmod +x run_classifier.sh` once
 
 ##### Windows
 If running on a Windows command line, this script can be executed by running `bash run_classifier.sh`.
-
-If you run into any trouble or would like access to the code in a different format, please feel free to email me at meoneill118@gmail.com.
 
 ### Approach
 
